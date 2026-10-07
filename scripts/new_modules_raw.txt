@@ -1,0 +1,766 @@
+Onboarding & Education
+1 Onboarding Web:https://youtu.be/UDz6J8y_WBo
+
+Berkerja Dengan API Crypto
+ Video 3 1 Operasi file dan Data Filtering  Akademi Crypto Belajar Crypto:https://youtu.be/2zbtlE5Tn9M
+ Video 3 2 Dasar dasar API Akademi Crypto Belajar Crypto:https://youtu.be/j1EzPQsydms
+ Video 3 3 Advanced API Akademi Crypto Belajar Crypto:https://youtu.be/C_N3voVlcf8
+ Video 3 4 Pengenalan Pandas Akademi Crypto Belajar Crypto:https://youtu.be/tRFvcO_yEJs
+ Video 3 5 Pandas untuk Analisis Data Crypto Akademi Crypto Belajar Crypto:https://youtu.be/HuRPCP3Lvzs
+
+Control Flow & Function
+ Video 2 1 Advanced Conditional Akademi Crypto Belajar Crypto:https://youtu.be/UfdHYMtsn9E
+ VIdeo 2 2 Loop paterns Akademi Crypto Belajar Crypto:https://youtu.be/cciIFyBOE2Y
+ Video 2 3 Function Design Patterns for Trading Akademi Crypto Belajar Crypto:https://youtu.be/zK3obwpou0M
+
+Phyton & Programing Basics
+ Course Outline Akademi Crypto Belajar Crypto:https://youtu.be/pPF-IZS7A5k
+ Video 1 1 Setup Environment Akademi Crypto Belajar Crypto:https://youtu.be/kzvYF4yHT2c
+ Video 1 2 Tipe Data dan WatchList Akademi Crypto Belajar Crypto:https://youtu.be/OpfiaRd7SGM
+ Video 1 3 Trading Logic dengan IF ELIF dan ELSE Akademi Crypto Belajar Crypto:https://youtu.be/VSo3XT9n61c
+ Video 1 4 Loops and Basic Automation Akademi Crypto Belajar Crypto:https://youtu.be/u9UfbQAJ8BY
+ Video 1 5 Function Akademi Crypto Belajar Crypto:https://youtu.be/xZMWUbl
+
+Portofoilo & Risk Management
+  1 Modul 5 1 Akademi Crypto Belajar Crypto:https://youtu.be/69b1vOyCD9M
+  2 Modul 5 2 Akademi Crypto Belajar Crypto:https://youtu.be/SwP5rPTHHS0
+  3 Modul 5 3 Akademi Crypto Belajar Crypto:https://youtu.be/xoFPRlDSsWs
+  4 Bot Deploy Akademi Crypto Belajar Crypto:https://youtu.be/Q59oNWbaBKE
+
+Onboarding & Education
+ 1  First 5 Minutes WIth Crypto   Akademi Crypto Belajar Crypto
+ 2  Wallet Draining Stories Akademi Crypto Belajar Crypto
+
+User-Focused Topics
+1  Gas Fees Demystified Akademi Crypto Belajar Crypto:https://youtu.be/gFNMqDoRrFQ
+2  Analysing Crypto Projects Akademi Crypto Belajar Crypto:https://youtu.be/32wlq0j7Tf4
+
+Zcash
+1  Risiko pasti terjadi Akademi Crypto Belajar Crypto:https://youtu.be/-w6LpOMPH_M
+2  How Zcash Work Akademi Crypto Belajar Crypto:https://youtu.be/WnNjlC0jKkY
+3  Inside a Zcash Akademi Crypto Belajar Crypto:https://youtu.be/GrKwBGm3Q8Y
+4  Zcash Anonymity Showdown Akademi Crypto Belajar Crypto:https://youtu.be/q-kVNfMS2HA
+5  The Future of Zcash Akademi Crypto Belajar Crypto:https://youtu.be/M23d4RsSh-k
+
+Emerging  Concepts & New Tech
+1  ZK Proofs:https://youtu.be/gP_gPzZPHLk
+2  Intent Centric Architecture:https://youtu.be/jqir2oyTzBA
+3  Autonomous Agents:https://youtu.be/0xNh76BC4ak
+4  Personal Recovery:https://youtu.be/nApEQSBfg68
+5  Personal Security:https://youtu.be/TvV1hmbnwWI
+
+
+
+Enterprise & Real-World Adoption
+1  Blockchain in Carbon Credit:https://youtu.be/eaDheqpZWOs
+2  Loyalty Programs:https://youtu.be/KE5xxvq1EaY
+3  Blockchain for Intellectual Property:https://youtu.be/AGxdTmRqUNU
+4  Blockchain in Music Industry:https://youtu.be/cq3XgNk8Y_I
+
+Infrastructure & Data Handling
+1  Data Availability:https://youtu.be/xvWjfXZZnno
+2  Decentralised Storage Network:https://youtu.be/9_Z6EC3zV7w
+3  Rollups as a Service:https://youtu.be/o8AMo0sltM4
+4  Node as a Service:https://youtu.be/E0-QfRVNVkA
+5  Indexing Services:https://youtu.be/ROy0iFYEL5Y
+6  Supply Chain Transparency:https://youtu.be/mCet2hroFGE
+
+Q4 Crypto Outlook
+1 Webinar Crypto Q4 Market Outlook:https://youtu.be/Mhb9LLqgiPM
+
+Momentum & Trend Following Trading
+Modul 4 1 –  Volume Plus Price Action Momentum:https://youtu.be/te14sKcOsA8
+Modul 4 2 – Trading Strategy   Risk Management:https://youtu.be/T4tukXBPKjk
+Modul 4 3 – Multi Timeframe Analysis:https://youtu.be/tJ52okOwEY0
+
+Crypto & Blockchain Basic: From History to Market Mastery 
+01  Pengenalan Blockchain Tech di Balik Cryptocurrency:https://youtu.be/UWLjSduRo-I
+02  Sejarah Dari Bitcoin:https://youtu.be/5MAdgZ7FFZM
+03  Sejarah Dari Altcoin:https://youtu.be/xqTY40HF-HA
+04  Crypto Market Cycle Theory:https://youtu.be/_DaciYuAwe0
+05  Bedah Pilihan Investasi Terbaik:https://youtu.be/1MA2MJzI2R0
+06  Kapan Waktu Membeli Crypto yang Tepat:https://youtu.be/flbayaRshP0
+07  Altcoins Paradox of Choices:https://youtu.be/MH7EkqJmqIo
+08  Kenapa Narrative di Crypto Sengaja Diciptakan:https://youtu.be/U9Uyzw2uiJ8
+
+Mean Reversal Trading
+Modul 3 2 – Penerapan Pada Bitcoin:https://youtu.be/64hL4UR1hj8
+Modul 3 3 – Penerapan Pada Big Cap Altcoins:https://youtu.be/HT9pQhqBl5A
+
+Grind Trading And DCA
+1 Modul 2 1 – Grid Trading Concept 1:https://youtu.be/ItvpMcWwBMk
+2 Modul 2 2 – Grid Trading Concept 2:https://youtu.be/KrQ68E-5_n0
+
+Cross-Chain & Interoperability
+1  Interoperability:https://youtu.be/RP1hIe8R6No
+2  Interchain Messaging Protocol:https://youtu.be/e6FIOkqz3PU
+3  Bridge Aggregators:https://youtu.be/wcr6kuJFm-Q
+5  Multi chain Ecosystems:https://youtu.be/gAoj9XFAjEc
+
+Privacy, Security And Risk
+1  Privacy Layers:https://youtu.be/KatG6xUGyOc
+2  Blockchain Bridges:https://youtu.be/pCasf1jeKjk
+3  Privacy Coin:https://youtu.be/pSMJt97oR7o
+4  Decentralised Identity 2:https://youtu.be/UlV_jivl_34
+5 Attack Vectors in Blockchain 2:https://youtu.be/qyMukCfiwVg
+
+Crypto Quantitative Trading Strategy 
+1 1 Foundation Analytics  Akademi Crypto Belajar Crypto:https://youtu.be/Nwa-ZGLiAXg
+1 2 Python Setup and AI Tools   Akademi Crypto Belajar Crypto:https://youtu.be/AOHuTzrqIo8
+1 3 Data Acquisition and Cleaning Akademi Crypto Belajar Crypto:https://youtu.be/LezlSlOTsCs
+
+NFTs & Tokenization (Beyond ERC721) 
+16  Fractionalised NFTs:https://youtu.be/SDiHHozCdsU
+17  Dynamic NFTs:https://youtu.be/UirSk1NR2Tw
+18  Royalty in NFT:https://youtu.be/XWn_KFT1Z8A
+19  NFT Financialisation:https://youtu.be/YWLHqdb34_A
+20  Phygital NFTs:https://youtu.be/nuc7WnD9ZIo
+
+DeFi & Financial Applications
+1  DeFi Insurance Protocols:https://youtu.be/ajx37gQo0Hc
+2  Aggregator Protocols:https://youtu.be/7O5H5bQzJRY
+3  AMMs:https://youtu.be/zO3YXvFI_hk
+4  Bonding Curves:https://youtu.be/7-aLPPuKy2g
+5  Collateralisation Models:https://youtu.be/D5CJuqeZj4c
+
+Q3 Crypto Outlook
+Q3 Crypto Outlook:https://youtu.be/XcB9IHCYOmQ
+
+Crypto Risk Management
+1  Mengenal Risiko di Dunia Crypto:https://youtu.be/eR-KzklWje0
+2  Risk Allocation  Diversifikasi dan Proteksi Modal:https://youtu.be/LJm1zPPXPOs
+3  Advanced Risk Management:https://youtu.be/Ve-xkAWWWtU
+4  Membangun Strategi Bull VS Bear:https://youtu.be/jauEQIIt1Ng
+
+The Art Of Crypto Trading
+Webinar day1 INTRO TO MODERN DAY CRYPTO TRADING:https://youtu.be/ELePvSWMzlw
+Webinar day2 CRYPTO BRO TO BE A CRYPTO PRO:https://youtu.be/kzyoXd2ukvw
+Webinar Day3 DEEP UNDERSTANDING OF NARATIF RESEARCH:https://youtu.be/G9_xmrJUWY4
+Webinar Day4 DEEP UNDERSTANDING OF FUNDAMENTAL RESEARCH:https://youtu.be/f6fH7mWjUWQ
+Webinar Day5 DEEP UNDERSTANDING OF TECHNICAL RESEARCH:https://youtu.be/IRxm_g_r9QI
+Webinar Day6 COMPREHENSIVE GUIDE ON HOW TO MARKET TIMING AND MARKET POSITIONING:https://youtu.be/3kzcORNo0Tg
+Webinar Day7 STEP BY STEP PORTOFOLIO ALLOCATION   PORTOFOLIO MANAGEMENT:https://youtu.be/kXW7mwDWnrE
+
+Core Blockchain & Consensus Topics
+01  Evolution of Blockchain Governance:https://youtu.be/wtjIDTCtUMQ
+02  History of Layer 1 Blockchains:https://youtu.be/mG6Jmdx_C7o
+03  Blockchain Finalityv:https://youtu.be/7XrO_087j0o
+04  Permissioned vs Permissionless Blockchains:https://youtu.be/aGSvLhp9Z-M
+05  Light Clients:https://youtu.be/jj0g2Shoy9c
+06  State Bloat:https://youtu.be/ehg-H6pEbsA
+07  BFT vs Nakamoto Consensus:https://youtu.be/G2YvWPef748
+08  Blockchain Economics:https://youtu.be/WSiVtmwnX_4
+09  MEV:https://youtu.be/HIjzHB-d3O4
+10  Onchain vs Offchain Governance Models:https://youtu.be/LJ3nmuC7vI4
+
+Smart Legal Contracts
+Smart Legal Contract:https://youtu.be/5juuoqVY7Fw
+
+Crypto Exit Strategy
+1 Pentingnya memiliki exit strategy:https://youtu.be/Lh2_pIEGJZw
+2 Siklus Di market Crypto:https://youtu.be/7vQBFlkIRmI
+3 Profits Taking Dalam Altcoin:https://youtu.be/yNpZ2tsO_5c
+4 Tools untuk identifikasi top:https://youtu.be/Azdv6tgO7sU
+5 Psikologis Exit Strategy:https://youtu.be/AVPVofxN4c4
+
+Crypto Entry Mastery
+1 Bagaimana cara entry di market:https://youtu.be/okWZnqmdors
+2 Manfaatkan Fear and Greed:https://youtu.be/WDywlHaAvxs
+3  Timeframe Selection:https://youtu.be/VvTqIuWoop4
+4 Technical Indicators:https://youtu.be/-UnwI7YBEYI
+5 Eksekusi  Entry:https://youtu.be/N4p5u_XbaMo
+
+BlockChain and AI
+Blockchain and AI:https://youtu.be/ekKVOV_b1HI
+
+Crypto Portfolio Management 
+1  Alasan Penting Melakukan Portfolio:https://youtu.be/JldWmUayzsw
+2 Bagaimana Melakukan Portfolio Management:https://youtu.id/0S37-GJsvoE
+3 Strategi yang ideal untuk digunakan:https://youtu.be/V9yeG0xFkg8
+4 Porsi Dari Bitcoin:https://youtu.be/eENSIKbau5Y
+5 Porsi Dari Altcoin:https://youtu.be/EhXi-O8zk6k
+
+Central Bank Digital Currency
+CBDC:https://youtu.be/uTLVqe3mbo0
+
+DePIN
+DePIN:https://youtu.be/lpZ-6GIi7Lw
+
+Fan Token
+Fan Token:https://youtu.be/Y7o3tmZ2mh8
+
+Ethereum Name Service (ENS)
+Ethereum Naming Service:https://youtu.be/XfQwkzbDlz8
+
+Real-World Assets
+Real World Assets:https://youtu.be/q4wQr46YFEw
+
+Liquid Staking and Liquid Restaking Token
+1 Liquid Staking:https://youtu.be/Vn8YawD61GY
+2 Liquid Restaking:https://youtu.be/sTDbS-ZWwRY
+3 Eigen Layer:https://youtu.be/-iVh92DAaTg
+
+Decentralised Autonomous Organisation (DAO)
+DAO:https://youtu.be/QVvJUvupe_I
+
+Stablecoins
+Stablecoins:https://youtu.be/y7tk6keE8bo
+
+Identifying Scam Tricks & Security Tips
+1 Pentingnya Web3 Safety:https://youtu.be/VqVcgQp1Wyo
+2 Secure Private Key dan seed phrase:https://youtu.be/qKxVIg089Yk
+3 Job interview Scam:https://youtu.be/LpwICpaXyEA
+4 Developer Job Scam:https://youtu.be/R58hHHVdmNI
+5 Fake Website Scam:https://youtu.be/H7VZdV0Imoo
+6 Malicious Files dari sumber Tak Dikenal:https://youtu.be/MZXJ-PQz3hQ
+7 P2P Scam Risk:https://youtu.be/6tCSJyw2ROc
+8 Social Engineering:https://youtu.be/2-3wL2xB8bg
+
+DeFi: Lending & Borrowing
+Defi Lending:https://youtu.be/tpdJRFwvLT4
+Flash Loan:https://youtu.be/GYBkYsflzVs
+
+DeFi: DEX
+DeFi Exchange:https://youtu.be/iupPjF6zU1c
+
+Cross-Chain Technology
+Intro to Cross Chain Technology:https://youtu.be/gCw4FgPZkco
+CCIP:https://youtu.be/1l70zaH_HcE
+
+BlockChain Oracles
+Price Oracle:https://youtu.be/ycwbbSrMh5k
+TWAP:https://youtu.be/X9UUrrYyNyU
+
+Tokens
+ERC20:https://youtu.be/VLm8nw_ERHE
+ERC721:https://youtu.be/5UmkT88VRII
+ERC4626:https://youtu.be/iJ-vqBJ7DYw
+
+Crypto Self Custody
+1 Hot Wallet vs Cold Wallet Doodle:https://youtu.be/6OS_ti6TmPI
+2 Setup Ledger Cold Wallet:https://youtu.be/9uL4U1AqIcs
+3 Reset Recover Ledger:https://youtu.be/iUNxW60chqc
+4 Connect Ledger to Ledger Desktop App:https://youtu.be/jHuPuiIveho
+5 Testnet in Ledger:https://youtu.be/6O81Sy4bUAw
+6 Connect Cold Wallet to Metamask:https://youtu.be/YCEUyWrPHLY
+7 Transaksi dengan Cold Wallet:https://youtu.be/z1AmkT9dJe8
+
+Layer2:Rollups
+1 Ethereum Scaling:https://youtu.be/rS0REs2ckuY
+2 Ethereum Optimistic Rollup:https://youtu.be/3sd85dAh5wU
+3 Ethereum ZK Rollup:https://youtu.be/xL9YlMRPvFg
+
+2025 Crypto Regulation
+2025 Crypto Regulation:https://youtu.be/Yq73WDgegK0
+
+2030 The Great Reset
+2030 The Great Reset:https://youtu.be/MoKOVsxDTSM
+
+DEX Trading Tutorial
+DEX Trading Tutorial 1:https://youtu.be/eOUdCsY4WjE
+DEX Trading Tutorial 2:https://youtu.be/S2FEREjRJSU
+DEX Trading Tutorial 3:https://youtu.be/cJnLb8X-_io
+DEX Trading Tutorial 4:https://youtu.be/A3yPa2ncwIg
+DEX Trading Tutorial 5:https://youtu.be/URSt3zr1cmY
+
+Security Issues
+1 Reentrancy EXT:https://youtu.be/MNbmlYG17Rg
+2 Random Generator EXT:https://youtu.be/_1qSLQ_XplE
+3 Smart Contract Security Auditing:https://youtu.be/eYjjW4LHZhI
+4 Security Contest and Bug Bounty:https://youtu.be/C0T9xFVbgkw
+
+Cara Menggandakan Portofolio di AI Supercycle
+Cara Menggandakan Portofolio di AI SUPERCYCLE:https://youtu.be/6kgsfWwyGrk
+
+UTXO Model vs Account Model
+1 Intro to UTXO Export:https://youtu.be/bhlVZBW8hEs
+
+Types of Account
+1 Account Model:https://youtu.be/tcHHRWsgYkc
+2 Account Abstraction:https://youtu.be/b-RHBbUbuUE
+
+What is a Smart Contract
+1 Basic Smart Contract:https://youtu.be/1HFWzsT8fPM
+2 Smart Contract Execution:https://youtu.be/zklu21LuB8Y
+3 Storage and immutability:https://youtu.be/B070bLikBeY
+4 Smart Contract Upgradeability:https://youtu.be/vW1jSeXDY2w
+
+Bitcoin Anonymity
+1 Bitcoin Anonymity:https://youtu.be/0nD4hYpYE5w
+2 Improving Bitcoin Anonymity:https://youtu.be/EjKWLogevf8
+
+Lightning Network
+Lightning Network:https://youtu.be/UoEHX2kPWEU
+
+UTXO Model
+1 Intro to UTXO Export:https://youtu.be/bhlVZBW8hEs
+2 UTXO Transaction Model Export:https://youtu.be/-2tzH_0VTmI
+
+Crypto Market Outlook 2025
+Crypto Market Outlook 2025:https://youtu.be/xhP5Pn__h-A
+
+Blockchain Trilemma
+1 Bockchain Trilemma:https://youtu.be/j6s7fojqmWM
+2 How to Solve Blockchain Trilemma:https://youtu.be/O4NzrXmxTc8
+
+Consensus: Proof of … and Security Premises
+Proof of Work:https://youtu.be/1Hm5R055WmU
+Proof of Stake:https://youtu.be/aobi2JxCvOc
+Proof of Authority:https://youtu.be/QV4Z4Yd5700
+Proof of History:https://youtu.be/WejJQQhHJqc
+
+Digital Money and Spending Problem
+Digital Money and Spending Problem:https://youtu.be/Go7ABKy1YEk
+
+Keys, Wallets, and How They Work
+Keys and Wallets 1:https://youtu.be/_T1FLQAAj14
+Keys and Wallets 2:https://youtu.be/gJuuCWgT73w
+
+US Election Market Outlook
+US Election Market Outlook:https://youtu.be/e0kPq-cCC2M
+
+OctoBull
+Preparing for Octobull:https://youtu.be/vUvPpan2Gc4
+
+Token Unlock Trading Strategy
+1 Apa itu Token Unlock:https://youtu.be/ElMMZ3i_dw8
+2 Jenis jenis Token Unlock:https://youtu.be/Of6rusLFsUw
+3 Cara Mendapatkan Keuntungan Dengan Airdrop Unlock:https://youtu.be/ya5AVgmB9Pw
+4 Penerapan Trading Airdrop Unlock:https://youtu.be/y3C2rzIwbAM
+5 Cliff Unlock Trading Strategy:https://youtu.be/W0eE46wjkY8
+6 Dampak  Bullish  Cliff Unlock Play:https://youtu.be/gvYEOHkzlqs
+7 7 Penerapan Cliff Unlock Trading Strategy:https://youtu.be/IiQvka9ErYI
+
+Crypto Trading Psychology
+Crypto Trading Psychology:https://youtu.be/z0VLJxlzMkI
+
+Crypto Money Psychology
+1 Psikologi Faktor yang penting:https://youtu.be/KKtF4Da7-Mc
+2 Psikologis ketika Trading Investing secara Scientific:https://youtu.be/MJpFeXzOi6k
+3 Mekanisme dalam Otak yang Menyebabkan Bias:https://youtu.be/2E5nGLT_n90
+4 Pola Perilaku para Trader dan Investor:https://youtu.be/n429tsOx6ZY
+5 Overconfidence Bias:https://youtu.be/nJicmjyttG0
+6 Herding Behavior Bias:https://youtu.be/O-zLARCMNiU
+7 Loss Aversion Bias:https://youtu.be/g25wp2THgnI
+
+Crypto WyckOff Trading
+01  Sejarah Wyckoff Trading Strategy:https://youtu.be/ljIZG1f0f5U
+02  Hukum Dan Prinsip Dari Wyckoff:https://youtu.be/mVkx5AjliK8
+03   Penerapan Fase Dalam Market Secara Umum:https://youtu.be/bd5eqPg943A
+04  Berbagai Fase Wyckoff Dalam Trading Crypto:https://youtu.be/FAK_0omHmik
+05  Supply Dan Demand:https://youtu.be/GdbdeEFIRBg
+06  Volume Spread Analysis:https://youtu.be/FRquOvwGT2Y
+07  Pergerakan Price Action Sederhana:https://youtu.be/lE_7ygNPLdg
+08  Fase Dari Wyckoff Part 1:https://youtu.be/RSrthIOfPtE
+09  Fase Dari Wyckoff Part 2:https://youtu.be/_CokogT25gM
+10  Penerapan Wyckoff Dalam Crypto:https://youtu.be/G8uUnJHRVyc
+
+Technical Research
+1 Cara Melakukan Trend Analysis:https://youtu.be/JCp8Z_eFCac
+2 Cara Melakukan Area Analysis:https://youtu.be/Bqbm-LDD7io
+3 Cara Melakukan Pattern Analysis:https://youtu.be/Bigyb3uVc7s
+4 Cara Melakukan Trigger Analysis:https://youtu.be/RmDcfiQU9Os
+5 Cara Melakukan Entry Analysis:https://youtu.be/OV4WiR6XdGI
+
+Mastering Altcoins
+Mastering Altcoins:https://youtu.be/jenLemaMSKY
+
+Bonus: Sales Mastery
+1 Mentalitas anak jalanan  Limiting Belief:https://youtu.be/3WKUPX4kmMI
+2 Mentalitas anak jalanan  Focus:https://youtu.be/0Clqmtz1MWk
+3 Mentalitas anak jalanan  Decision Making:https://youtu.be/jKt7yaacAG0
+4 Mentalitas anak jalanan  Kekayaan dan Pikiran:https://youtu.be/AIDYsHzzL08
+5 Sales Fundamentals  Introduction to Sales:https://youtu.be/ZzDmFIxY54s
+6 Sales Fundamentals  The Psychology of Selling:https://youtu.be/ITd7f9GdTW0
+7 Sales Fundamentals  Building a Rapport:https://youtu.be/RCH4TXW1WP0
+8 Sales Fundamentals  Cara Jadi Sales yang Terbaik:https://youtu.be/5ooIQp7klcc
+9 Sales Fundamentals  Sales Mentality:https://youtu.be/RtOvyA-rsmc
+10 Sales Fundamentals  Breakdown Tipe Penjualan:https://youtu.be/ic280KXIP2E
+
+Riding the Crypto Super Mega Cycle
+Riding The Crypto Super Mega Cycle:https://youtu.be/t38BX9BFcA4
+
+Masterclass Session 1 – Crypto Smart Money
+Masterclass Session 1 – Crypto Smart Money:https://youtu.be/t38BX9BFcA4
+
+Masterclass Session 2 – Crypto Harmonic Trading
+Crypto Harmonic Trading:https://youtu.be/qaYLGlPx1_U
+
+Masterclass Session 3 – Crypto Order Flow
+Crypto Order Flow:https://youtu.be/RRZSqOlXyUM
+
+10X YOUR PORTFLIO THIS BULLRUN
+10x Your Portofolio this Bullrun:https://youtu.be/VM3IANpjlig
+
+Cara Mencari Altcoin yang Minimal Akan Naik 10X
+Cara Mencari Altcoin yg akan naik minimal 10x:https://youtu.be/i18asWBIitQ
+
+BTC to Alts Switching Timing
+BTC to Alts Switching Timing:https://youtu.be/y5wUrmumvBY
+
+Narratives for 2024 Bull Run
+Narratives for 2024 BullRun:https://youtu.be/BNKlalbYASc
+
+Strategi Trading Crypto Untuk Dapetin 100 Juta Pertama dari 0
+Strategi Trading Crypto Untuk Dapetin 100 Juta Pertama dari 0:https://youtu.be/3j7kzcY9iSc
+
+Strategi Jadi Miliarder Dari Crypto
+Strategi Jadi Miliarder Dari Crypto:https://youtu.be/h_-hjS_HSt4
+
+Kopi Darat Akademi Crypto 9 September 2023
+Kopi Darat Akademi Crypto:https://youtu.be/I2Iqnjw8PRA
+
+Akademi Crypto Grand Launching
+Akademi Crypto Grand Launching:https://youtu.be/y_wkDcOyXaM
+
+Big Crypto Thesis
+Big Crypto Thesis:https://youtu.be/FhnqVwcGdVc
+
+Money Management – Kalimasada
+01  Money Management:https://youtu.be/vFvP61eoYdM
+
+Mind Management – Kalimasada
+01  Mind Management:https://youtu.be/o9kEYpXRoJk
+
+Cara Screening Altcoin dari 0 – Kalimasada
+Cara Screening Altcoin Dari 0:https://youtu.be/lFhioc2SaT4
+
+Live Trading – Kalimasada
+1  Live Market Update – 30 Januari 2024:https://youtu.be/T28i-uxaIi8
+2  Live Market Update – 01 Maret 2024:https://youtu.be/V-9GFPWyeYs
+3 Live Market Update – 04 Februari 2024:https://youtu.be/oqvRIIEzGgo
+4 Live Market Update – 07 Februari 2024:https://youtu.be/NTlR60EbFD8
+5 Live Market Update – 15 Februari 2024:https://youtu.be/kZTTVlVCOcA
+6 Live Market Update – 20 Februari 2024:https://youtu.be/669CcUZmEMc
+7 Live Market Update – 23 Februari 2024:https://youtu.be/XN1hT2LP7I0
+8 Live Market Update – 02 Maret 2024:https://youtu.be/07YRJmY1x1w
+9 Live Market Update – 05 Maret 2024:https://youtu.be/iFABcnJNfCw
+10 Live Market Update – 05 Maret 2024:https://youtu.be/mYTA115SSqo
+11 Live Market Update – 08 Maret 2024:https://youtu.be/1halSjNsGLU
+12 Live Market Update – 09 Maret 2024:https://youtu.be/xdVjmXGFDr0
+13 Live Market Update – 12 Maret 2024:https://youtu.be/-CRlMP7zV1k
+14 Live Market Update – 13 Maret 2024:https://youtu.be/3-kO9Mvgp_Q
+15 Live Market Update – 16 Maret 2024:https://youtu.be/abLbzvb9TzM
+16 Live Market Update – 18 Maret 2024:https://youtu.be/lmdC5OagJQI
+17 Live Market Update – 19 Maret 2024:https://youtu.be/3Mvdf8sDR8s
+18 Live Market Update – 20 Maret 2024:https://youtu.be/gzwYOasxFpc
+19 Live Market Update – 21 Maret 2024:https://youtu.be/741dN3fYmKI
+20 Live Market Update – 21 Maret 2024:https://youtu.be/bWCwoEZl4xE
+21 Live Market Update – 25 Maret 2024:https://youtu.be/4rdQKYRYXM4
+22 Live Market Update – 25 April 2024:https://youtu.be/kXyK2a-6A8A
+23 Live Market Update – 10 Mei 2024:https://youtu.be/guhpOiP4LRA
+
+Kuliah Crypto
+1 Memahami Cara Kerja Uang:https://youtu.be/pCbkcZUiRG4
+2 The History of Bitcoin:https://youtu.be/STvc6TKNOzE
+3 Investment Options::https://youtu.be/kr4ZfrkaXcU
+4 The History of Bitcoin 2:https://youtu.be/L9vLSrrRtMg
+5 Investment Portions:https://youtu.be/hzI4i6iOEj4
+6 Market Cycle Theory:https://youtu.be/YUOnrbcEhNA
+7 Formula to Sucess in Crypto:https://youtu.be/4LOh-3w3uQM
+
+Margin Call – Private Member
+Margin Call  6 July 2024:https://youtu.be/QxI4HJDoOzo
+
+Fundamental Research
+1 Intro to Fundamental Research:https://youtu.be/lubGtS3lrjM
+2 Faktor yg berperan dalam fundamental research:https://youtu.be/rQwjb20GMa8
+3 Mendalami Tokenomics Project:https://youtu.be/x6iYoK0Sa50
+
+Narrative Research – Kalimasada
+1 Intro to Narrative Analysis:https://youtu.be/S8kswsL3m6c
+2 How to be early in every Narrative:https://youtu.be/3i4GjF_L3J0
+3 Portofolio Allocation:https://youtu.be/FL-0eEsN4XE
+
+
+Crypto Investing Alpha – Kalimasada
+1 The Elevator Concept:https://youtu.be/hj_Zce-odJg
+2 Konsep Pagi Siang Malam:https://youtu.be/fqNHYinYkps
+3 The Wallet Tracker The Crypto Stalker:https://youtu.be/xrn223aWKno
+4 Analisis Sentimen Fear And Greed:https://youtu.be/48MecglICkc
+5 Stock To Flow Market:https://youtu.be/ucinEOF37Kw
+6 Cara Memeriksa Smart Contract:https://youtu.be/q-zQSVevQaI
+7 Maximizing AI To Beat The Market:https://youtu.be/8hBFgHUKXLaporan keuangan 101
+1 Apa itu financial Analysis:https://youtu.be/rFuACYP6j_A
+2 Tentang Laporan Laba Rugi:https://youtu.be/f7CuQxUTq8M
+3 Mengecek Kesehatan Perusahaan:https://youtu.be/exY26C1eZwk
+4 Arus kas dalam Perusahaan:https://youtu.be/QOX1KSkG5S4
+5 Kesimpulan laporan keuangan:https://youtu.be/HZefApwgUS8
+1 Fungsi Rasio Keuangan:https://youtu.be/_npD8n45jJ8
+2 Sehat DER:https://youtu.be/C4aD2V74ysw
+3 Profitabilitas NPM ROE:https://youtu.be/oPNwWJSK1_o
+4 Growth EPS:https://youtu.be/yY58UXz1LGM
+5 Value PE PBV:https://youtu.be/4zVdqzsuWxA
+6 Rangkuman Rasio Keuangan:https://youtu.be/mSxdwOEWC88
+1 Consumer Good Food and Beverage:https://youtu.be/5KvsF1Yy2PY
+2 Property and Real Estate:https://youtu.be/MGumaUpK8vE
+3 TLKM vs EXCL:https://youtu.be/he76iWTu9jg
+
+
+
+Mengenal Konsep Mikro Ekonomi
+1 Definisi Ekonomi Mikro:https://youtu.be/uazuCExff8s
+2 Kenapa Ekonomi Mikro penting:https://youtu.be/bRi0M3Qtx5Y
+3 Opportunity cost:https://youtu.be/6ojMKZlSMoM
+
+
+Top Down Analysis
+1 Introduction:https://youtu.be/T9SZN9o4PkM
+2 Analisa Fundamental Perusahaan:https://youtu.be/lOUOecqqy1A
+3 Analisa Fundamental:https://youtu.be/KpP1fSeemHY
+4 Komponen analisa fundamental:https://youtu.be/mO852PF6aZQ
+Komponen 1 Ekonomi:https://youtu.be/T3yfDhe8bOE
+Komponen 2 Industri:https://youtu.be/c7EmjvOBAaE
+Komponen 3 Company:https://youtu.be/PJCpj7_Y0Uk
+Summary:https://youtu.be/EVZvH47xivQ
+
+Technical Analysis 101
+1 What is Technical Analysis:https://youtu.be/DjfkwrL6zGQ
+2 Side to Side Fundamental vs Technical:https://youtu.be/K8JsIKLeLEU
+3 Why use Technical Analysis:https://youtu.be/ELGdEceZLF0
+4 Why Trendline:https://youtu.be/rAgIOu3gnIw
+5 Praktek Trendline:https://youtu.be/f3WCwrdw1Iw
+6 Apa itu Support and Resistance:https://youtu.be/c8jFUVlHJHk
+7 Contoh Support and Resistance:https://youtu.be/WTLL6N2WNc8
+8 Pengertian Candlestick:https://youtu.be/t14yXiDaDbE
+9 Pattern:https://youtu.be/7-C5s_RhUP4
+10 Praktek Candlestick:https://youtu.be/Fm_HmCMEpHs
+11 Apa itu Indicator:https://youtu.be/h6qHK9vXcaI
+12 Trend Moving Average dan Praktek:https://youtu.be/AxmRwDONO7M
+13 Oscilator Stochastic and MACD with Praktek:https://youtu.be/c_v8PmHpMXA
+14 Pentingnya Volume:https://youtu.be/3b7IWfj4TWU
+15 Pros and Cons Indicators:https://youtu.be/tUVbCGet1Ik
+16 What is Chart Pattern:https://youtu.be/yF1bMyLn660
+17 Chart Pattern di Fase Bullish and Bearish:https://youtu.be/lUsh5UtUj8w
+18 Praktik Chart Pattern:https://youtu.be/ca5QIGIZ-Fo
+19 What Is Fibonacci:https://youtu.be/D0UtYl22rXk
+20 Jenis Fibonacci umum:https://youtu.be/HdEAzLA1NA0
+21 Cara mengukur target harga Fibonacci:https://youtu.be/Kdtl8bfa-cs
+22 Apa itu Flow:https://youtu.be/Bf9SkA2fCEE
+23 Praktek Mengamati Flow:https://youtu.be/KcDBYVEtTNI
+24 Investasi itu Soal Preferensi:https://youtu.be/bcCyyPsxMhU
+
+
+Corporate action
+1 Apa itu Aksi Korporasi:https://youtu.be/GWtS67WmnIU
+2 Initial Public Offering:https://youtu.be/KJhTMqU_8dk
+3 Dividen:https://youtu.be/f3lnQvTyQKg
+4 Right Issue:https://youtu.be/ZURYhWg3XzY
+5 Private Placement:https://youtu.be/nYnD7ldYSt8
+6 Stock Split and Reverse Stock Split:https://youtu.be/nDxmEbgJBFA
+7 Rapat Umum Pemegang Saham:https://youtu.be/SEgUKYf9Fks
+8 Merger and Akuisisi:https://youtu.be/FMf2v7m6Vjs
+
+
+Economy 101
+1 Ekonomi Bukan Cuma soal Uang:https://youtu.be/2smHSJOWbP0
+2 Economic Agent:https://youtu.be/0QfZzXXNumQ
+3 Kelangkaan:https://youtu.be/Z8dmk4w2vR4
+4 Ekonomi yang sebenarnya:https://youtu.be/iQJOHWQ3x5E
+
+
+Richest Man in Babylon
+1 Bayar Dirimu Sendiri:https://youtu.be/VUyhlRPTGpc
+2 Kontrol Pengeluaranmu:https://youtu.be/-QfIBRTdMdw
+3 Investasi di Dirimu Sendiri:https://youtu.be/S_HIx8iIfWg
+4 Buat Uang Bekerja Untuk Kamu:https://youtu.be/lE19maMWaxw
+5 Lindungi Kekayaan dan Pastikan Pendapatan di Masa Depan:https://youtu.be/3MS7xnq8XG4
+
+
+E-IPO
+1 Apa itu E IPO dan Kelebihannya Serta Kekurangannya:https://youtu.be/SvRs263qBA4
+2 Step step Regristasi dan Pembelian:https://youtu.be/qLAGtxrIrg4
+
+
+Income 101
+1 Pendapatan Kecil Pengeluaran Besar:https://youtu.be/n2nkGdrrtYU
+2 Pendapatan Aktif:https://youtu.be/-EbnA834TIU
+3 Pendapatan Investasi:https://youtu.be/_kCnbqEl1WI
+4 Pendapatan Pasif:https://youtu.be/vmuzGrPZnYs
+
+
+Staking
+1 Definisi Dan Konsep Dasar:https://youtu.be/zofZEJJd-qI
+2 Prosedur Kerja:https://youtu.be/ZpC4NhxFhGs
+3 Sistem Perhitungan Reward pada Staking Coin:https://youtu.be/-sIgxafvX-Q
+4 Platform Staking:https://youtu.be/9RxSvUBQZvo
+5 Langkah Mudah Staking:https://youtu.be/S8K3BIISsPE
+6 Memilih Wallet yang sesuai untuk Staking:https://youtu.be/IGuRyWNqN_A
+
+
+Screening Cryptocurrency
+1 Marketcap:https://youtu.be/PkAPCTJt8Sw
+2 Analytics:https://youtu.be/qfo1t-uENZs
+3 Momentum:https://youtu.be/rCy8y6zAGb4
+
+
+Consumer Goods
+1  Introduction to Consumer Goods:https://youtu.be/GRLHa1DuZrw
+2 Indstrial classification JASICA vs IDXIC:https://youtu.be/19TLZKv0Upw
+3 Siapa yang cocok Investasi di Sektor Consumer Goods:https://youtu.be/kxyE_1i-z0s
+4 Checklist Yg wajib dipenuhi sebelum beli saham:https://youtu.be/YL6y1ArGfIs
+5 Checklist 1 Business Model:https://youtu.be/wYxrr9oOYyw
+6 Checklist 2 Prospect:https://youtu.be/zQIwGudysqA
+7 Checklist 3 Valuation:https://youtu.be/WDPcLY6M-oI
+8 Tantangan Perusahaan Sektor Consumer Goods:https://youtu.be/MhyCdD1PmFo
+9 Metrics Consumer Goods:https://youtu.be/H_-_olW3rts
+10 Revenue Model and Cost Structure Model:https://youtu.be/UFIN9V6hCvE
+11 Rasio Kesehatan Perusahaan:https://youtu.be/_U9QO8OTPZs
+12 Rasio Profitabilitas:https://youtu.be/9-0kj_u6rhM
+13 Rasio efisiensi:https://youtu.be/PPNf38Sm9aY
+14 Valuasi yang cocok for Consumer Goods:https://youtu.be/6x-PQsODcqM
+15 Consumer Goods 101 Consumer Goods Valuation Praktik yuk:https://youtu.be/vWVRZFVeHJY
+
+
+
+BlockChain
+1 Sejarah BlockChain:https://youtu.be/bUwnlwjJz40
+2 Apa itu BlockChain dan Bagaimana Cara Kerjanya:https://youtu.be/UAeeTQS2u8Q
+3 Kelebihan dan Kekurangan BlockChain:https://youtu.be/uxU06pSnXoI
+4 Apa Manfaat BlockChain:https://youtu.be/O-EM5GCOxtA
+
+
+
+Hutang 101
+1 Definisi Hutang:https://youtu.be/A1jyfRE_T9c
+2 Jenis Jenis Hutang:https://youtu.be/apkXhxFRTtk
+3 Debt Service Ratio:https://youtu.be/biSzidjCQXc
+4 Rasio Utang Terhadap Asset:https://youtu.be/ukpKiFYc2Dg
+
+
+Mengenal Konsep Permintaan
+1 Apa itu Permintaan:https://youtu.be/sNGWvfoMvlI
+2 Kurva Permintaan:https://youtu.be/Sn69mo1YIBE
+3 Faktor Yang Mempengaruhi Permintaan:https://youtu.be/BKTzImi41og
+
+
+Money Management THR Edition
+1 Know Your Style Know Your Money:https://youtu.be/642MiGs06ZA
+2 Live a Beautiful Life with THR:https://youtu.be/QF_Vzr5WLFA
+3 Kelola THR buat kamu yang single:https://youtu.be/4kdwDagU-30
+4 Kelola THR buat kamu yang Berkeluarga:https://youtu.be/sFP2OVA6dcM
+5 Put it All Together:https://youtu.be/5iN0kAaSs3g
+
+
+Asuransi 101
+1 Instrumen Proteksi:https://youtu.be/tMOEI6nQU5c
+2 Kamus Dasar Asuransi:https://youtu.be/tq5UzY7M3yc
+3 Insurance Life Cycle:https://youtu.be/v92CSaHE5Zw
+4 Bagaimana Asuransi Bekerja:https://youtu.be/YrAO5X2_gFY
+5 Jenis Asuransi ini Perlu Kamu Ketahui:https://youtu.be/2PLpicr7XQQ
+6 Asuransi Jiwa:https://youtu.be/PhsfV-5-4VM
+7 Asuransi Kesehatan:https://youtu.be/WERsLWJkl7s
+8 Asuransi Penyakit Kritis:https://youtu.be/F54S10wT7lM
+9 Unitlink vs Tradisional Part1:https://youtu.be/7nd_EgdhWFQ
+10 Unitlink vs Tradisional Part2:https://youtu.be/z9gtA3zXEVE
+11 Cara Memilih asuransi yang tepat:https://youtu.be/YMmEwWlq_NQ
+12 Hitung UP ala Financial Planner:https://youtu.be/d7o3p5Snjio
+13 Bedah Asuransi Unitlink Kesehatan:https://youtu.be/jW6HlHUQxyY
+14 Bedah Asuransi Tradisional:https://youtu.be/hZcR_E598kg
+15 Asuransi101 Memilih Asuransi yang Tepat Closing Challenge Buat Kamu:https://youtu.be/KXtkCr0vWoM
+
+
+Smart Contract
+1 Apa itu Smart Contract dan Cara Kerjanya:https://youtu.be/lAClWtLFO3k
+2 Manfaat dan Penggunaan Smart Contract:https://youtu.be/ppfwi0s1SkA
+3 Kelebihan dan Kekurangan Serta Kritik atas Smart Contract:https://youtu.be/hHKz0SQ-eso
+
+
+Banking 101
+1 Introduction to Banking:https://youtu.be/ftMhUVwTbik
+2 Mengapa Peran Bank Sangat Fundamental:https://youtu.be/ouQGaWM-p0A
+3 Perbankan Industri yang Paling Beresiko:https://youtu.be/8SjrH8Ud5QQ
+4 Kenapa Bank Berbeda dengan Industri Lainnya:https://youtu.be/nyPU8G7kV5g
+5 Capital Adequacy:https://youtu.be/ONpz4n-smSA
+6 Asset Quality:https://youtu.be/sBHQWw5QcGk
+7 Management Efficiency and Earnings:https://youtu.be/Q2YYkjYBUQg
+8 Liquidity:https://youtu.be/kQz3uoqGIGE
+9 Membandingkan Kinerja Keuangan 4 Bank Buku IV:https://youtu.be/TYChuAXvuMQ
+10 Ini Dia Metode yang Cocok Untuk Valuasi Bank:https://youtu.be/_K7-xExyW0Q
+11 Praktik Relative Valuation Bank:https://youtu.be/BTd0g2wf-hA
+
+
+Behavioral Finance
+1 Traditional vs Behavioral Finance:https://youtu.be/7sbd1YbdQLI
+2  Apa itu Bias Investor:https://youtu.be/w5RSbCvwV9g
+3 Bagaimana Bias Bisa Mempengaruhi Keputusan Investor:https://youtu.be/89VAy0YYV0I
+4 Apa itu Bias Kognitif:https://youtu.be/NEEIlfy-Rwc
+5 Mental Accounting Hyperbolic Discounting:https://youtu.be/r9jNUNmhk3A
+6 Dunning Krueger Effect Illusion of Control:https://youtu.be/Yax1T4jpFO8
+7 Apa itu Bias Emosional:https://youtu.be/oHB2nZI4a9Q
+8 Loss Aversion Sunk Cost Fallacy:https://youtu.be/H4FItVYNbuA9
+9 Overconfidence Self Control Bias:https://youtu.be/2is9AZLnbuE
+10 Regret Aversion Bias Herd Mentality:https://youtu.be/JQ4He1vZRQY
+11 Apa yang harus dilakukan Investor:https://youtu.be/Usfn-oHFSgQ
+
+
+Excel Modelling 101
+1 introduction:https://youtu.be/YtGZUiyMpnE
+2 kenapa belajar excel:https://youtu.be/c4jENmlIkK4
+3 apa yang akan kita bahas:https://youtu.be/ck-Rn3jYuSM
+4 keyboard atau mouse:https://youtu.be/i8bHNOgvXiQ
+5 yuk praktek:https://youtu.be/8xVHcGy5Amw
+6 layout overview:https://youtu.be/T1nwBIYQVsw
+7  ribbon part 1:https://youtu.be/XnPNCTpE6As
+8 ribbon part 2:https://youtu.be/90RpZU574_Q
+9  shortcuts dalam mengakses ribbon:https://youtu.be/f52fMenJwi0
+10 overview:https://youtu.be/5z4UdtuBhbk
+11 excel option general:https://youtu.be/sisApz0rCzo
+12 excel option formula:https://youtu.be/CrnPG9jimeQ
+13 excel option data proofing  save language ease of access settings:https://youtu.be/-XJKc4qWE-g
+14 Excel Option Advanced Settings Customize Ribbon Quick Access Toolbar Add Ins:https://youtu.be/hCLBRRbmVl4
+15 overview:https://youtu.be/7WMbJRhWYDc
+16 Format Background Special Numbers Column Width:https://youtu.be/FCO5nHtEgrk
+17 Page Break Preview Orientation Freeze Panes:https://youtu.be/noJM31_YVjw
+18 Paste Special Format Numbers Subtotals:https://youtu.be/wrFbqi82MCs
+19 Font Colors with Paste Special:https://youtu.be/OfDRfJrafOA
+20 Assumptions Percentages Decimal Places:https://youtu.be/wbftIcZ84Cw
+21 Fill Right Borders View Gridlines:https://youtu.be/aQGez0VocS8
+22 overview:https://youtu.be/2JAENGR3Y3s
+23 Structure Organization Duplicate Sheets Grouping:https://youtu.be/_hScs6_Z5Bc
+24 Anchoring Formatting and Grouping Cells:https://youtu.be/zkIMkVqwCEY
+25 Naming Cells:https://youtu.be/N6hmcanFTWc
+26 Tracing Precedents and Dependents:https://youtu.be/NjVjyaX48-c
+27 Go to Special Conditional Formatting:https://youtu.be/frINbMuFlsE
+28 Dynamic Titles and Headers:https://youtu.be/ZSk10w2NENo
+29 overview:https://youtu.be/5OUaqlhHTMg
+30 Date Functions and Time Periods:https://youtu.be/_tmpZEwojXg
+31 Yearfrac Function:https://youtu.be/bJCxUmqN7_o
+32 SUM AVERAGE SUMPRODUCT MEDIAN:https://youtu.be/EFm8mRExTZw
+33 IF STATEMENTS:https://youtu.be/qLmy0PIdNgU
+34 Rounding and Absolute Functions:https://youtu.be/0ENl9aKDcbA
+35 MIN MAX SMALL LARGE Functions:https://youtu.be/thgGJeDixOw
+36 IFERROR Function:https://youtu.be/JgLRueYgE30
+37 Find and Replace:https://youtu.be/iEBzQVhQQmA
+38 Rangkuman:https://youtu.be/5JMBvwiLC8Y
+
+
+Financial Planning for Intermediate
+1 Mimpi Besar Tapi Seberapa:https://youtu.be/C_Oc_PFJsHg
+2 Level Finansial Versi Ternak Uang:https://youtu.be/ZEUWIM0t444
+3 Introduction:https://youtu.be/JGKDhMx96fs
+4 Sekolah Kuliah:https://youtu.be/du2C3Ngm8sk
+5 Intern:https://youtu.be/p8eN4-r3dxE
+6 Baru Masuk Dunia Kerja:https://youtu.be/N4LXZb5D8dg
+7 Bekerja Dengan 1 2 Tanggungan:https://youtu.be/I8Xrx-cpGjk
+8 Berbisnis Free Lancing:https://youtu.be/qxG_SxYyvJ0
+9 Mempersiapkan Pensiun:https://youtu.be/etlX5pihlEM
+10 Rahasia Sukses:https://youtu.be/AXwgBFo6sGE
+
+
+Intermediate Financial Analysis
+1 Telaah Laporan Keuangan Lebih Dalam:https://youtu.be/bIv1z5aXelQ
+2 Understanding Company s Business with Income Statement:https://youtu.be/Cd_svUwWbL4
+3 Neraca Saldo 101 Part1:https://youtu.be/njE-SSgr8JE
+4 Neraca Saldo 101 Part2:https://youtu.be/8lrbY6SCfhU
+5 Neraca Saldo 101 Part3:https://youtu.be/-UbnmQQZc-I
+6 Step Menganalisa Laporan Arus Kas:https://youtu.be/0H0SVTCqEHA
+7 Yang Indah Belum Tentu Benar:https://youtu.be/9OlPeUzyfM0
+
+
+Mengenal Kewajiban Pajak Bagi Investor
+1 Konsep Dasar Pajak:https://youtu.be/z0ZUvRhKzfM
+2 Istilah Umum Pajak:https://youtu.be/3bTnnarVxAM
+3 Konsep Dasar Pajak Penghasilan:https://youtu.be/9KpL-MEzD5Q
+4 Mengenal Pajak Penghasilan Pada Investasi Pasar Uang:https://youtu.be/ytvvJ2rBFcA
+5 Mengenal Pajak Penghasilan Pada Investasi Aset Digital Fintech:https://youtu.be/5XGz7gsE13I

@@ -1,0 +1,90 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "title": "Investasi Dasar",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Pengenalan investasi dan prinsip dasar.",
+      "thumbnail": "",
+      "materials": [
+        {
+          "name": "Pengenalan Investasi - Part 1",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Prinsip Dasar Investasi - Part 2",
+          "url": "https://www.youtube.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Strategi Alokasi Aset",
+      "category": "Investasi",
+      "level": 2,
+      "description": "Cara membagi portofolio sesuai tujuan.",
+      "thumbnail": "",
+      "materials": [
+        {
+          "name": "Strategi Alokasi Aset - Part 1",
+          "url": "https://www.youtube.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Live Replay: Market Analysis",
+      "category": "Live Replay",
+      "level": 2,
+      "description": "Rekaman analisis pasar langsung.",
+      "thumbnail": "",
+      "materials": []
+    },
+    {
+      "id": 4,
+      "title": "Psikologi Trading",
+      "category": "Mindset",
+      "level": 0,
+      "description": "Kontrol emosi dan manajemen risiko.",
+      "thumbnail": "",
+      "materials": []
+    },
+    {
+      "id": 5,
+      "title": "Strategi Scalping Lanjut",
+      "category": "Trading",
+      "level": 4,
+      "description": "Teknik scalping untuk trader berpengalaman.",
+      "thumbnail": "",
+      "materials": []
+    },
+    {
+      "id": 6,
+      "title": "Tutorial: Setting Tools",
+      "category": "Tutorials",
+      "level": 0,
+      "description": "Panduan memasang dan menggunakan tools trading.",
+      "thumbnail": "",
+      "materials": []
+    },
+    {
+      "id": 7,
+      "title": "Build Your Trading Bot",
+      "category": "Tutorials",
+      "level": 4,
+      "description": "Membangun bot trading otomatis.",
+      "thumbnail": "",
+      "materials": []
+    },
+    {
+      "id": 8,
+      "title": "Analisis Teknis Lanjutan",
+      "category": "Trading",
+      "level": 2,
+      "description": "Indikator dan konfluensi tingkat lanjut.",
+      "thumbnail": "",
+      "materials": []
+    }
+  ]
+}

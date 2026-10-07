@@ -1,0 +1,1929 @@
+{
+    "modules":  [
+                    {
+                        "pdf_url":  "",
+                        "id":  1,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Assets Classes.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Assets Classes.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/wJ50VmxmYJU",
+                                              "name":  "1  Cash Cash Equivalents",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/oC4rLcmrn44",
+                                              "name":  "2  Bonds",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/YfCyvmBY6N4",
+                                              "name":  "3  Stocks",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/d1mKZExoLj8",
+                                              "name":  "4  Commodities",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/rZT7DDw043Q",
+                                              "name":  "5  Alternative Assets",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Assets Classes",
+                        "thumbnail":  "image/TU BACKGROUND/Assets Classes.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  2,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Macroeconomic For Investor.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Macroeconomic For Investor.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/ZcZe9i4gq0M",
+                                              "name":  "1  Inflasi  Suku Bunga dan GDP",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/NQcxTPpegsc",
+                                              "name":  "2  Siklus Bisnis",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/kzbj7mnvFEU",
+                                              "name":  "3  Bank Sentral  Quantitative Easing dan Kebijakan Fiskal",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Macroeconomic For Investor",
+                        "thumbnail":  "image/TU BACKGROUND/Macroeconomic For Investor.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  3,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Financial Accounting.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Financial Accounting.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/yGoYolbA7j0",
+                                              "name":  "1  Rasio Finansial",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/jZC3XEjqYls",
+                                              "name":  "2  Accounting Red Flags",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/fZD8DXfNXGQ",
+                                              "name":  "3  Menghitung Discounted Cash Flow",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Financial Accounting",
+                        "thumbnail":  "image/TU BACKGROUND/Financial Accounting.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  4,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Principles of Investing.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Principles of Investing.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/KfxfAIEIDsI",
+                                              "name":  "1  Time Value of Money",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/vpycvRSYv2g",
+                                              "name":  "2  Risk VS Return",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/FyuzawL5jr0",
+                                              "name":  "3  Asset Clasess",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Principles of Investing",
+                        "thumbnail":  "image/TU BACKGROUND/Principles of Investing.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  5,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Behavioral Finance.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Behavioral Finance.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/7sbd1YbdQLI",
+                                              "name":  "1 Traditional vs Behavioral Finance",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/w5RSbCvwV9g",
+                                              "name":  "2  Apa itu Bias Investor",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/89VAy0YYV0I",
+                                              "name":  "3 Bagaimana Bias Bisa Mempengaruhi Keputusan Investor",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/NEEIlfy-Rwc",
+                                              "name":  "4 Apa itu Bias Kognitif",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/r9jNUNmhk3A",
+                                              "name":  "5 Mental Accounting Hyperbolic Discounting",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Yax1T4jpFO8",
+                                              "name":  "6 Dunning Krueger Effect Illusion of Control",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/oHB2nZI4a9Q",
+                                              "name":  "7 Apa itu Bias Emosional",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/H4FItVYNbuA9",
+                                              "name":  "8 Loss Aversion Sunk Cost Fallacy",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/2is9AZLnbuE",
+                                              "name":  "9 Overconfidence Self Control Bias",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/JQ4He1vZRQY",
+                                              "name":  "10 Regret Aversion Bias Herd Mentality",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Usfn-oHFSgQ",
+                                              "name":  "11 Apa yang harus dilakukan Investor",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Behavioral Finance",
+                        "thumbnail":  "image/TU BACKGROUND/Behavioral Finance.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  6,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang The Investor’s Mind.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/The Investor’s Mind.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/0gn7H8sKnV4",
+                                              "name":  "1  Prinsip Pertama Integritas dan Kesabaran",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/MtXuVp0xQ_U",
+                                              "name":  "2  Circle of Competence",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/1nvxUeBok3c",
+                                              "name":  "3  The Psychology Money",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/WO5aPVcIkjk",
+                                              "name":  "4  Mental Models 101",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/lxZwp7FeR9Y",
+                                              "name":  "5  Value VS Price",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/rDcex8DrdiI",
+                                              "name":  "6  Margin of Safety",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Ypdrxaw_huY",
+                                              "name":  "7  The Long Term Mindset",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "The Investor’s Mind",
+                        "thumbnail":  "image/TU BACKGROUND/The Investor’s Mind.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  7,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang The Wealth Blueprint.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/The Wealth Blueprint.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/Gp-3l5Oanh4",
+                                              "name":  "1 Compound Interest Keajaiban ke 8 Dunia",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/_SYlacyV0BE",
+                                              "name":  "2  Gaya Hidup Sederhana",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/NgdrmvFIbas",
+                                              "name":  "3  Jangan Pernah Kehilangan Uang",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/87lFyVcNkPM",
+                                              "name":  "4  Investasi Sebagai Bisnis",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Ixujy-VeyzM",
+                                              "name":  "5  Strategi Kekayaan Jangka Panjang",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Z6kSw57m85I",
+                                              "name":  "6  Avoiding Stupidity",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/r1wSMfbjk0s",
+                                              "name":  "7  Berinvestasi Untuk Legacy",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "The Wealth Blueprint",
+                        "thumbnail":  "image/TU BACKGROUND/The Wealth Blueprint.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  8,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Capital Market Mastery.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Capital Market Mastery.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/-K0bP-FCvWk",
+                                              "name":  "1  Fundamental Analysis 101",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/VAlBaG7X-As",
+                                              "name":  "2  Mengenali Bisnis Hebat",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/cim6lIlnCho",
+                                              "name":  "3  Time is The Friend of The Wonderful business",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/nogExidwbgw",
+                                              "name":  "4  Mr  Market is Your Servant",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/We6ILHdNO18",
+                                              "name":  "5  Sektor dan Siklus",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/aS_WhbyaFE4",
+                                              "name":  "6  Diversifikasi VS Konsentrasi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Kn9Ex5i9bGQ",
+                                              "name":  "7  Saham Sebagai Instrumen Kekayaan",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Capital Market Mastery",
+                        "thumbnail":  "image/TU BACKGROUND/Capital Market Mastery.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  9,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Personal Finance.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Personal Finance.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/nX3q86dSMbo",
+                                              "name":  "1 0 Apa Itu Personal Finance",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/UE4Ca7mchvg",
+                                              "name":  "1 1 Kebiasaan Menabung",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/3k5AZllJGyg",
+                                              "name":  "1 2 Dimana Menyimpan Dana Darurat",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/2Qk1Axw9TLA",
+                                              "name":  "1 3 Cara Menentukan Dana Darurat",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/LfmcjkGgypM",
+                                              "name":  "1 4 Bahaya Cicilan Dan Gaya Hidup Kredit",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/V8WZQMGTe8Q",
+                                              "name":  "1 5 Metode Snowball VS Metode Avalanche",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/lLiX1s1gDvc",
+                                              "name":  "1 6 Kelola Kartu Kredit Secara Bijak",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/gs9IKFcFREg",
+                                              "name":  "1 7 Memahami Utang Produktif VS Konsumtif",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/niAdoB84UBM",
+                                              "name":  "1 8 Strategi Tingkatkan Penghasilan Ternaak Uang",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/XhxwABZxy5M",
+                                              "name":  "1 9 Membongkar Kebocoran Keuangan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/i0NmHqv4fds",
+                                              "name":  "2 0 Cara Mengatur Gaji Secara Efektif",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/QE-Q-kekpBs",
+                                              "name":  "2 1 Cara Membuat Anggaran Bulanan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/OZfdCe-_AG8",
+                                              "name":  "2 2 Membuat Tujuan Keuangan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/BtTGnd2ZWZc",
+                                              "name":  "2 3 Rich Mindset VS Poor Mindset",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Personal Finance",
+                        "thumbnail":  "image/TU BACKGROUND/Personal Finance.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  10,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Laporan keuangan 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Laporan Keuangan 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/rFuACYP6j_A",
+                                              "name":  "1 Apa itu financial Analysis",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/f7CuQxUTq8M",
+                                              "name":  "2 Tentang Laporan Laba Rugi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/exY26C1eZwk",
+                                              "name":  "3 Mengecek Kesehatan Perusahaan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/QOX1KSkG5S4",
+                                              "name":  "4 Arus kas dalam Perusahaan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/HZefApwgUS8",
+                                              "name":  "5 Kesimpulan laporan keuangan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/_npD8n45jJ8",
+                                              "name":  "1 Fungsi Rasio Keuangan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/C4aD2V74ysw",
+                                              "name":  "2 Sehat DER",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/oPNwWJSK1_o",
+                                              "name":  "3 Profitabilitas NPM ROE",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/yY58UXz1LGM",
+                                              "name":  "4 Growth EPS",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/4zVdqzsuWxA",
+                                              "name":  "5 Value PE PBV",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/mSxdwOEWC88",
+                                              "name":  "6 Rangkuman Rasio Keuangan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/5KvsF1Yy2PY",
+                                              "name":  "1 Consumer Good Food and Beverage",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/MGumaUpK8vE",
+                                              "name":  "2 Property and Real Estate",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/he76iWTu9jg",
+                                              "name":  "3 TLKM vs EXCL",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Laporan keuangan 101",
+                        "thumbnail":  "image/TU BACKGROUND/Laporan Keuangan 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  11,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Excel Modelling 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Excel Modelling 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/YtGZUiyMpnE",
+                                              "name":  "1 introduction",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/c4jENmlIkK4",
+                                              "name":  "2 kenapa belajar excel",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ck-Rn3jYuSM",
+                                              "name":  "3 apa yang akan kita bahas",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/i8bHNOgvXiQ",
+                                              "name":  "4 keyboard atau mouse",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/8xVHcGy5Amw",
+                                              "name":  "5 yuk praktek",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/T1nwBIYQVsw",
+                                              "name":  "6 layout overview",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/XnPNCTpE6As",
+                                              "name":  "7  ribbon part 1",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/90RpZU574_Q",
+                                              "name":  "8 ribbon part 2",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/f52fMenJwi0",
+                                              "name":  "9  shortcuts dalam mengakses ribbon",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/5z4UdtuBhbk",
+                                              "name":  "10 overview",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/sisApz0rCzo",
+                                              "name":  "11 excel option general",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/CrnPG9jimeQ",
+                                              "name":  "12 excel option formula",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/-XJKc4qWE-g",
+                                              "name":  "13 excel option data proofing  save language ease of access settings",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/hCLBRRbmVl4",
+                                              "name":  "14 Excel Option Advanced Settings Customize Ribbon Quick Access Toolbar Add Ins",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/7WMbJRhWYDc",
+                                              "name":  "15 overview",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/FCO5nHtEgrk",
+                                              "name":  "16 Format Background Special Numbers Column Width",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/noJM31_YVjw",
+                                              "name":  "17 Page Break Preview Orientation Freeze Panes",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/wrFbqi82MCs",
+                                              "name":  "18 Paste Special Format Numbers Subtotals",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/OfDRfJrafOA",
+                                              "name":  "19 Font Colors with Paste Special",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/wbftIcZ84Cw",
+                                              "name":  "20 Assumptions Percentages Decimal Places",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/aQGez0VocS8",
+                                              "name":  "21 Fill Right Borders View Gridlines",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/2JAENGR3Y3s",
+                                              "name":  "22 overview",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/_hScs6_Z5Bc",
+                                              "name":  "23 Structure Organization Duplicate Sheets Grouping",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/zkIMkVqwCEY",
+                                              "name":  "24 Anchoring Formatting and Grouping Cells",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/N6hmcanFTWc",
+                                              "name":  "25 Naming Cells",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/NjVjyaX48-c",
+                                              "name":  "26 Tracing Precedents and Dependents",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/frINbMuFlsE",
+                                              "name":  "27 Go to Special Conditional Formatting",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ZSk10w2NENo",
+                                              "name":  "28 Dynamic Titles and Headers",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/5OUaqlhHTMg",
+                                              "name":  "29 overview",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/_tmpZEwojXg",
+                                              "name":  "30 Date Functions and Time Periods",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/bJCxUmqN7_o",
+                                              "name":  "31 Yearfrac Function",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/EFm8mRExTZw",
+                                              "name":  "32 SUM AVERAGE SUMPRODUCT MEDIAN",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/qLmy0PIdNgU",
+                                              "name":  "33 IF STATEMENTS",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/0ENl9aKDcbA",
+                                              "name":  "34 Rounding and Absolute Functions",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/thgGJeDixOw",
+                                              "name":  "35 MIN MAX SMALL LARGE Functions",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/JgLRueYgE30",
+                                              "name":  "36 IFERROR Function",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/iEBzQVhQQmA",
+                                              "name":  "37 Find and Replace",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/5JMBvwiLC8Y",
+                                              "name":  "38 Rangkuman",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Excel Modelling 101",
+                        "thumbnail":  "image/TU BACKGROUND/Excel Modelling 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  12,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Top Down Analysis.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Top Down Analysis.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/T9SZN9o4PkM",
+                                              "name":  "1 Introduction",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/lOUOecqqy1A",
+                                              "name":  "2 Analisa Fundamental Perusahaan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/KpP1fSeemHY",
+                                              "name":  "3 Analisa Fundamental",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/mO852PF6aZQ",
+                                              "name":  "4 Komponen analisa fundamental",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/T3yfDhe8bOE",
+                                              "name":  "Komponen 1 Ekonomi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/c7EmjvOBAaE",
+                                              "name":  "Komponen 2 Industri",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/PJCpj7_Y0Uk",
+                                              "name":  "Komponen 3 Company",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/EVZvH47xivQ",
+                                              "name":  "Summary",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Top Down Analysis",
+                        "thumbnail":  "image/TU BACKGROUND/Top Down Analysis.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  13,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Technical Analysis 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Technical Analysis 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/DjfkwrL6zGQ",
+                                              "name":  "1 What is Technical Analysis",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/K8JsIKLeLEU",
+                                              "name":  "2 Side to Side Fundamental vs Technical",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ELGdEceZLF0",
+                                              "name":  "3 Why use Technical Analysis",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/rAgIOu3gnIw",
+                                              "name":  "4 Why Trendline",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/f3WCwrdw1Iw",
+                                              "name":  "5 Praktek Trendline",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/c8jFUVlHJHk",
+                                              "name":  "6 Apa itu Support and Resistance",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/WTLL6N2WNc8",
+                                              "name":  "7 Contoh Support and Resistance",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/t14yXiDaDbE",
+                                              "name":  "8 Pengertian Candlestick",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/7-C5s_RhUP4",
+                                              "name":  "9 Pattern",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Fm_HmCMEpHs",
+                                              "name":  "10 Praktek Candlestick",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/h6qHK9vXcaI",
+                                              "name":  "11 Apa itu Indicator",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/AxmRwDONO7M",
+                                              "name":  "12 Trend Moving Average dan Praktek",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/c_v8PmHpMXA",
+                                              "name":  "13 Oscilator Stochastic and MACD with Praktek",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/3b7IWfj4TWU",
+                                              "name":  "14 Pentingnya Volume",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/tUVbCGet1Ik",
+                                              "name":  "15 Pros and Cons Indicators",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/yF1bMyLn660",
+                                              "name":  "16 What is Chart Pattern",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/lUsh5UtUj8w",
+                                              "name":  "17 Chart Pattern di Fase Bullish and Bearish",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ca5QIGIZ-Fo",
+                                              "name":  "18 Praktik Chart Pattern",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/D0UtYl22rXk",
+                                              "name":  "19 What Is Fibonacci",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/HdEAzLA1NA0",
+                                              "name":  "20 Jenis Fibonacci umum",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Kdtl8bfa-cs",
+                                              "name":  "21 Cara mengukur target harga Fibonacci",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Bf9SkA2fCEE",
+                                              "name":  "22 Apa itu Flow",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/KcDBYVEtTNI",
+                                              "name":  "23 Praktek Mengamati Flow",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/bcCyyPsxMhU",
+                                              "name":  "24 Investasi itu Soal Preferensi",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Technical Analysis 101",
+                        "thumbnail":  "image/TU BACKGROUND/Technical Analysis 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  14,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Staking.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Staking.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/zofZEJJd-qI",
+                                              "name":  "1 Definisi Dan Konsep Dasar",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ZpC4NhxFhGs",
+                                              "name":  "2 Prosedur Kerja",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/-sIgxafvX-Q",
+                                              "name":  "3 Sistem Perhitungan Reward pada Staking Coin",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/9RxSvUBQZvo",
+                                              "name":  "4 Platform Staking",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/S8K3BIISsPE",
+                                              "name":  "5 Langkah Mudah Staking",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/IGuRyWNqN_A",
+                                              "name":  "6 Memilih Wallet yang sesuai untuk Staking",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Staking",
+                        "thumbnail":  "image/TU BACKGROUND/Staking.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  15,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Smart Contract.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Smart Contract.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/lAClWtLFO3k",
+                                              "name":  "1 Apa itu Smart Contract dan Cara Kerjanya",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ppfwi0s1SkA",
+                                              "name":  "2 Manfaat dan Penggunaan Smart Contract",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/hHKz0SQ-eso",
+                                              "name":  "3 Kelebihan dan Kekurangan Serta Kritik atas Smart Contract",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Smart Contract",
+                        "thumbnail":  "image/TU BACKGROUND/Smart Contract.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  16,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Screening Cryptocurrency.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Screening Cryptocurrency.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/PkAPCTJt8Sw",
+                                              "name":  "1 Marketcap",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/qfo1t-uENZs",
+                                              "name":  "2 Analytics",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/rCy8y6zAGb4",
+                                              "name":  "3 Momentum",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Screening Cryptocurrency",
+                        "thumbnail":  "image/TU BACKGROUND/Screening Cryptocurrency.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  17,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Saham 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Saham 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/1l8kR2g1DtI",
+                                              "name":  "1 Basic of stock Introduction",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/tU_HkfeIis4",
+                                              "name":  "2 Basic of stock Apa itu saham",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/T7r-VjkwLOk",
+                                              "name":  "3 Basic of Stock Siapa cocok investasi saham",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/vykAJgDW7LM",
+                                              "name":  "4 Basic of Stock Untung dan rugi saham darimana",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/-kob2QMjCZc",
+                                              "name":  "1 Memulai investasi saham Cara kerja saham",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/b6FiZQHOW30",
+                                              "name":  "2 Memulai investasi saham Memilih saham pertama",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/PzP_q3eG_i0",
+                                              "name":  "3 Memulai investasi saham Investor atau Trader",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/oCiZXj_fyZI",
+                                              "name":  "4 Memulai Investasi saham Gagal berinvestasi saham",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/YtPeuc_fUX4",
+                                              "name":  "1 Cara analisa saham Introduction",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/sSI8LCBVYj4",
+                                              "name":  "2 Cara analisa saham Analisa Kualitas perusahaan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/r--5-5Sgif8",
+                                              "name":  "3 Cara analisa saham Analisa rasio keuangan",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Saham 101",
+                        "thumbnail":  "image/TU BACKGROUND/Saham 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  18,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Richest Man in Babylon.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Richest Man In Babylon.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/VUyhlRPTGpc",
+                                              "name":  "1 Bayar Dirimu Sendiri",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/-QfIBRTdMdw",
+                                              "name":  "2 Kontrol Pengeluaranmu",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/S_HIx8iIfWg",
+                                              "name":  "3 Investasi di Dirimu Sendiri",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/lE19maMWaxw",
+                                              "name":  "4 Buat Uang Bekerja Untuk Kamu",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/3MS7xnq8XG4",
+                                              "name":  "5 Lindungi Kekayaan dan Pastikan Pendapatan di Masa Depan",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Richest Man in Babylon",
+                        "thumbnail":  "image/TU BACKGROUND/Richest Man In Babylon.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  19,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Mengenal Konsep Permintaan.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Mengenal Konsep Permintaan.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/sNGWvfoMvlI",
+                                              "name":  "1 Apa itu Permintaan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Sn69mo1YIBE",
+                                              "name":  "2 Kurva Permintaan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/BKTzImi41og",
+                                              "name":  "3 Faktor Yang Mempengaruhi Permintaan",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Mengenal Konsep Permintaan",
+                        "thumbnail":  "image/TU BACKGROUND/Mengenal Konsep Permintaan.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  20,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Mengenal Konsep Mikro Ekonomi.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Mengenal Konsep Mikro Ekonomi.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/uazuCExff8s",
+                                              "name":  "1 Definisi Ekonomi Mikro",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/bRi0M3Qtx5Y",
+                                              "name":  "2 Kenapa Ekonomi Mikro penting",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/6ojMKZlSMoM",
+                                              "name":  "3 Opportunity cost",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Mengenal Konsep Mikro Ekonomi",
+                        "thumbnail":  "image/TU BACKGROUND/Mengenal Konsep Mikro Ekonomi.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  21,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Intermediate Financial Analysis.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Intermediate Financial Analysis.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/bIv1z5aXelQ",
+                                              "name":  "1 Telaah Laporan Keuangan Lebih Dalam",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Cd_svUwWbL4",
+                                              "name":  "2 Understanding Company s Business with Income Statement",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/njE-SSgr8JE",
+                                              "name":  "3 Neraca Saldo 101 Part1",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/8lrbY6SCfhU",
+                                              "name":  "4 Neraca Saldo 101 Part2",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/-UbnmQQZc-I",
+                                              "name":  "5 Neraca Saldo 101 Part3",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/0H0SVTCqEHA",
+                                              "name":  "6 Step Menganalisa Laporan Arus Kas",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/9OlPeUzyfM0",
+                                              "name":  "7 Yang Indah Belum Tentu Benar",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Intermediate Financial Analysis",
+                        "thumbnail":  "image/TU BACKGROUND/Intermediate Financial Analysis.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  22,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Income 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Income 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/n2nkGdrrtYU",
+                                              "name":  "1 Pendapatan Kecil Pengeluaran Besar",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/-EbnA834TIU",
+                                              "name":  "2 Pendapatan Aktif",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/_kCnbqEl1WI",
+                                              "name":  "3 Pendapatan Investasi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/vmuzGrPZnYs",
+                                              "name":  "4 Pendapatan Pasif",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Income 101",
+                        "thumbnail":  "image/TU BACKGROUND/Income 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  23,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Financial Planning for Intermediate.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Financial Planing for Intermediate.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/C_Oc_PFJsHg",
+                                              "name":  "1 Mimpi Besar Tapi Seberapa",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ZEUWIM0t444",
+                                              "name":  "2 Level Finansial Versi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/JGKDhMx96fs",
+                                              "name":  "3 Introduction",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/du2C3Ngm8sk",
+                                              "name":  "4 Sekolah Kuliah",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/p8eN4-r3dxE",
+                                              "name":  "5 Intern",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/N4LXZb5D8dg",
+                                              "name":  "6 Baru Masuk Dunia Kerja",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/I8Xrx-cpGjk",
+                                              "name":  "7 Bekerja Dengan 1 2 Tanggungan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/qxG_SxYyvJ0",
+                                              "name":  "8 Berbisnis Free Lancing",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/etlX5pihlEM",
+                                              "name":  "9 Mempersiapkan Pensiun",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/AXwgBFo6sGE",
+                                              "name":  "10 Rahasia Sukses",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Financial Planning for Intermediate",
+                        "thumbnail":  "image/TU BACKGROUND/Financial Planing for Intermediate.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  24,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang E-IPO.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/E-IPO.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/SvRs263qBA4",
+                                              "name":  "1 Apa itu E IPO dan Kelebihannya Serta Kekurangannya",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/qLAGtxrIrg4",
+                                              "name":  "2 Step step Regristasi dan Pembelian",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "E-IPO",
+                        "thumbnail":  "image/TU BACKGROUND/E-IPO.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  25,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Economy 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Economy 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/2smHSJOWbP0",
+                                              "name":  "1 Ekonomi Bukan Cuma soal Uang",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/0QfZzXXNumQ",
+                                              "name":  "2 Economic Agent",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Z8dmk4w2vR4",
+                                              "name":  "3 Kelangkaan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/iQJOHWQ3x5E",
+                                              "name":  "4 Ekonomi yang sebenarnya",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Economy 101",
+                        "thumbnail":  "image/TU BACKGROUND/Economy 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  26,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Corporate action.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Corporate Action.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/GWtS67WmnIU",
+                                              "name":  "1 Apa itu Aksi Korporasi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/KJhTMqU_8dk",
+                                              "name":  "2 Initial Public Offering",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/f3lnQvTyQKg",
+                                              "name":  "3 Dividen",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ZURYhWg3XzY",
+                                              "name":  "4 Right Issue",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/nYnD7ldYSt8",
+                                              "name":  "5 Private Placement",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/nDxmEbgJBFA",
+                                              "name":  "6 Stock Split and Reverse Stock Split",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/SEgUKYf9Fks",
+                                              "name":  "7 Rapat Umum Pemegang Saham",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/FMf2v7m6Vjs",
+                                              "name":  "8 Merger and Akuisisi",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Corporate action",
+                        "thumbnail":  "image/TU BACKGROUND/Corporate Action.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  27,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Consumer Goods.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Consumer Goods.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/GRLHa1DuZrw",
+                                              "name":  "1  Introduction to Consumer Goods",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/19TLZKv0Upw",
+                                              "name":  "2 Indstrial classification JASICA vs IDXIC",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/kxyE_1i-z0s",
+                                              "name":  "3 Siapa yang cocok Investasi di Sektor Consumer Goods",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/YL6y1ArGfIs",
+                                              "name":  "4 Checklist Yg wajib dipenuhi sebelum beli saham",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/wYxrr9oOYyw",
+                                              "name":  "5 Checklist 1 Business Model",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/zQIwGudysqA",
+                                              "name":  "6 Checklist 2 Prospect",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/WDPcLY6M-oI",
+                                              "name":  "7 Checklist 3 Valuation",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/MhyCdD1PmFo",
+                                              "name":  "8 Tantangan Perusahaan Sektor Consumer Goods",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/H_-_olW3rts",
+                                              "name":  "9 Metrics Consumer Goods",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/UFIN9V6hCvE",
+                                              "name":  "10 Revenue Model and Cost Structure Model",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/_U9QO8OTPZs",
+                                              "name":  "11 Rasio Kesehatan Perusahaan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/9-0kj_u6rhM",
+                                              "name":  "12 Rasio Profitabilitas",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/PPNf38Sm9aY",
+                                              "name":  "13 Rasio efisiensi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/6x-PQsODcqM",
+                                              "name":  "14 Valuasi yang cocok untuk Consumer Goods",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/vWVRZFVeHJY",
+                                              "name":  "15 Consumer Goods 101 Consumer Goods Valuation Praktik yuk",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Consumer Goods",
+                        "thumbnail":  "image/TU BACKGROUND/Consumer Goods.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  28,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Behavioral Finance.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Behavioral Finance.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/7sbd1YbdQLI",
+                                              "name":  "1 Traditional vs Behavioral Finance",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/w5RSbCvwV9g",
+                                              "name":  "2  Apa itu Bias Investor",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/89VAy0YYV0I",
+                                              "name":  "3 Bagaimana Bias Bisa Mempengaruhi Keputusan Investor",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/NEEIlfy-Rwc",
+                                              "name":  "4 Apa itu Bias Kognitif",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/r9jNUNmhk3A",
+                                              "name":  "5 Mental Accounting Hyperbolic Discounting",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Yax1T4jpFO8",
+                                              "name":  "6 Dunning Krueger Effect Illusion of Control",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/oHB2nZI4a9Q",
+                                              "name":  "7 Apa itu Bias Emosional",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/H4FItVYNbuA9",
+                                              "name":  "8 Loss Aversion Sunk Cost Fallacy",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/2is9AZLnbuE",
+                                              "name":  "9 Overconfidence Self Control Bias",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/JQ4He1vZRQY",
+                                              "name":  "10 Regret Aversion Bias Herd Mentality",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Usfn-oHFSgQ",
+                                              "name":  "11 Apa yang harus dilakukan Investor",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Behavioral Finance",
+                        "thumbnail":  "image/TU BACKGROUND/Behavioral Finance.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  29,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Banking 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Banking 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/ftMhUVwTbik",
+                                              "name":  "1 Introduction to Banking",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ouQGaWM-p0A",
+                                              "name":  "2 Mengapa Peran Bank Sangat Fundamental",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/8SjrH8Ud5QQ",
+                                              "name":  "3 Perbankan Industri yang Paling Beresiko",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/nyPU8G7kV5g",
+                                              "name":  "4 Kenapa Bank Berbeda dengan Industri Lainnya",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ONpz4n-smSA",
+                                              "name":  "5 Capital Adequacy",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/sBHQWw5QcGk",
+                                              "name":  "6 Asset Quality",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Q2YYkjYBUQg",
+                                              "name":  "7 Management Efficiency and Earnings",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/kQz3uoqGIGE",
+                                              "name":  "8 Liquidity",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/TYChuAXvuMQ",
+                                              "name":  "9 Membandingkan Kinerja Keuangan 4 Bank Buku IV",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/_K7-xExyW0Q",
+                                              "name":  "10 Ini Dia Metode yang Cocok Untuk Valuasi Bank",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/BTd0g2wf-hA",
+                                              "name":  "11 Praktik Relative Valuation Bank",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Banking 101",
+                        "thumbnail":  "image/TU BACKGROUND/Banking 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  30,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Banking 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Banking 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/ftMhUVwTbik",
+                                              "name":  "1 Introduction to Banking",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ouQGaWM-p0A",
+                                              "name":  "2 Mengapa Peran Bank Sangat Fundamental",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/8SjrH8Ud5QQ",
+                                              "name":  "3 Perbankan Industri yang Paling Beresiko",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/nyPU8G7kV5g",
+                                              "name":  "4 Kenapa Bank Berbeda dengan Industri Lainnya",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ONpz4n-smSA",
+                                              "name":  "5 Capital Adequacy",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/sBHQWw5QcGk",
+                                              "name":  "6 Asset Quality",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/Q2YYkjYBUQg",
+                                              "name":  "7 Management Efficiency and Earnings",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/kQz3uoqGIGE",
+                                              "name":  "8 Liquidity",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/TYChuAXvuMQ",
+                                              "name":  "9 Membandingkan Kinerja Keuangan 4 Bank Buku IV",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/_K7-xExyW0Q",
+                                              "name":  "10 Ini Dia Metode yang Cocok Untuk Valuasi Bank",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/BTd0g2wf-hA",
+                                              "name":  "11 Praktik Relative Valuation Bank",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Banking 101",
+                        "thumbnail":  "image/TU BACKGROUND/Banking 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  31,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Asuransi 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Asuransi 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/tMOEI6nQU5c",
+                                              "name":  "1 Instrumen Proteksi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/tq5UzY7M3yc",
+                                              "name":  "2 Kamus Dasar Asuransi",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/v92CSaHE5Zw",
+                                              "name":  "3 Insurance Life Cycle",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/YrAO5X2_gFY",
+                                              "name":  "4 Bagaimana Asuransi Bekerja",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/2PLpicr7XQQ",
+                                              "name":  "5 Jenis Asuransi ini Perlu Kamu Ketahui",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/PhsfV-5-4VM",
+                                              "name":  "6 Asuransi Jiwa",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/WERsLWJkl7s",
+                                              "name":  "7 Asuransi Kesehatan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/F54S10wT7lM",
+                                              "name":  "8 Asuransi Penyakit Kritis",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/7nd_EgdhWFQ",
+                                              "name":  "9 Unitlink vs Tradisional Part1",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/z9gtA3zXEVE",
+                                              "name":  "10 Unitlink vs Tradisional Part2",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/YMmEwWlq_NQ",
+                                              "name":  "11 Cara Memilih asuransi yang tepat",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/d7o3p5Snjio",
+                                              "name":  "12 Hitung UP ala Financial Planner",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/jW6HlHUQxyY",
+                                              "name":  "13 Bedah Asuransi Unitlink Kesehatan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/hZcR_E598kg",
+                                              "name":  "14 Bedah Asuransi Tradisional",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/KXtkCr0vWoM",
+                                              "name":  "15 Asuransi101 Memilih Asuransi yang Tepat Closing Challenge Buat Kamu",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Asuransi 101",
+                        "thumbnail":  "image/TU BACKGROUND/Asuransi 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  32,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Hutang 101.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Hutang 101.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/A1jyfRE_T9c",
+                                              "name":  "1 Definisi Hutang",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/apkXhxFRTtk",
+                                              "name":  "2 Jenis Jenis Hutang",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/biSzidjCQXc",
+                                              "name":  "3 Debt Service Ratio",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ukpKiFYc2Dg",
+                                              "name":  "4 Rasio Utang Terhadap Asset",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Hutang 101",
+                        "thumbnail":  "image/TU BACKGROUND/Hutang 101.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  33,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang BlockChain.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Blockchain.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/bUwnlwjJz40",
+                                              "name":  "1 Sejarah BlockChain",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/UAeeTQS2u8Q",
+                                              "name":  "2 Apa itu BlockChain dan Bagaimana Cara Kerjanya",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/uxU06pSnXoI",
+                                              "name":  "3 Kelebihan dan Kekurangan BlockChain",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/O-EM5GCOxtA",
+                                              "name":  "4 Apa Manfaat BlockChain",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "BlockChain",
+                        "thumbnail":  "image/TU BACKGROUND/Blockchain.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  34,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Money Management THR Edition.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Money Management THR Edition.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/642MiGs06ZA",
+                                              "name":  "1 Know Your Style Know Your Money",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/QF_Vzr5WLFA",
+                                              "name":  "2 Live a Beautiful Life with THR",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/4kdwDagU-30",
+                                              "name":  "3 Kelola THR buat kamu yang single",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/sFP2OVA6dcM",
+                                              "name":  "4 Kelola THR buat kamu yang Berkeluarga",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/5iN0kAaSs3g",
+                                              "name":  "5 Put it All Together",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Money Management THR Edition",
+                        "thumbnail":  "image/TU BACKGROUND/Money Management THR Edition.webp"
+                    },
+                    {
+                        "pdf_url":  "",
+                        "id":  35,
+                        "youtube_url":  "https://www.youtube.com",
+                        "category":  "Ternak Uang",
+                        "description":  "Materi pembelajaran tentang Mengenal Kewajiban Pajak Bagi Investor.",
+                        "level":  1,
+                        "banner_image":  "image/TU BACKGROUND/Mengenal Kewajiban Pajak Bagi Investor.webp",
+                        "materials":  [
+                                          {
+                                              "url":  "https://youtu.be/z0ZUvRhKzfM",
+                                              "name":  "1 Konsep Dasar Pajak",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/3bTnnarVxAM",
+                                              "name":  "2 Istilah Umum Pajak",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/9KpL-MEzD5Q",
+                                              "name":  "3 Konsep Dasar Pajak Penghasilan",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/ytvvJ2rBFcA",
+                                              "name":  "4 Mengenal Pajak Penghasilan Pada Investasi Pasar Uang",
+                                              "image":  ""
+                                          },
+                                          {
+                                              "url":  "https://youtu.be/5XGz7gsE13I",
+                                              "name":  "5 Mengenal Pajak Penghasilan Pada Investasi Aset Digital Fintech",
+                                              "image":  ""
+                                          }
+                                      ],
+                        "title":  "Mengenal Kewajiban Pajak Bagi Investor",
+                        "thumbnail":  "image/TU BACKGROUND/Mengenal Kewajiban Pajak Bagi Investor.webp"
+                    }
+                ]
+}

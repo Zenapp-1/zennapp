@@ -1,0 +1,1931 @@
+{
+  "pageTitle": "Trade with Suli",
+  "pageDescription": "Pilih kategori dan filter level untuk melihat modul sesuai tingkat kesulitan.",
+  "modules": [
+    {
+      "id": 1,
+      "title": "On Boarding",
+      "category": "Investasi",
+      "level": 0,
+      "start_here": true,
+      "description": "On Boarding Membership. Mulai dari sini untuk memahami alur belajar dan sistem di Trade with Suli.",
+      "materials": [
+        {
+          "name": "Navigating Through Discord",
+          "url": "https://youtu.be/Rrtju4FmcEs",
+          "image": ""
+        },
+        {
+          "name": "Risk Management",
+          "url": "https://youtu.be/3XqQeVMiYwY",
+          "image": ""
+        },
+        {
+          "name": "Sunk Cost Fallacy",
+          "url": "https://youtu.be/jKIRz2b-ROk",
+          "image": ""
+        },
+        {
+          "name": "Hope IS Not an Investment Strategy",
+          "url": "https://youtu.be/soQ0hdu4bWk",
+          "image": ""
+        },
+        {
+          "name": "Crypto Bukan Tentang Girls Math",
+          "url": "https://youtu.be/j5T8UdJxXL4",
+          "image": ""
+        },
+        {
+          "name": "Drawdown",
+          "url": "https://youtu.be/ImOxSmUksW8",
+          "image": ""
+        },
+        {
+          "name": "Istilah Istilah Teknikal",
+          "url": "https://youtu.be/Dt6mcXBXbkc",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/On Boarding.avif",
+      "banner_image": "image/Tws/On Boarding.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 5,
+      "title": "Bitcoin 2026 Bullrun Thesis",
+      "category": "Investasi",
+      "level": 1,
+      "description": "Pembahasan thesis bullrun Bitcoin 2026.",
+      "materials": [
+        {
+          "name": "Bitcoin 2026 Bullrun Thesis",
+          "url": "https://youtu.be/C4Qdk2qcLCY",
+          "image": ""
+        },
+        {
+          "name": "Rangkuman Webinar pdf",
+          "url": "https://drive.google.com/file/d/1w6ooUqqSofWYgOoHkqWqWc6id-T7gJtT/view",
+          "image": ""
+        },
+        {
+          "name": "Materi ppt",
+          "url": "https://cloudpdf.io/view/-zknmZuP9",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Bitcoin 2026 BullRun Thesis.avif",
+      "banner_image": "image/Tws/Bitcoin 2026 BullRun Thesis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 6,
+      "title": "Pengenalan Alt Coin",
+      "category": "Investasi",
+      "level": 2,
+      "description": "Mengenal altcoin dan cara memilih proyek yang potensial.",
+      "materials": [
+        {
+          "name": "Cara Kerja Altcoin",
+          "url": "https://youtu.be/r_ImIKYDw-Y",
+          "image": ""
+        },
+        {
+          "name": "Definisi Altcoin",
+          "url": "https://youtu.be/8BnajrT2gyI",
+          "image": ""
+        },
+        {
+          "name": "Jenis Jenis Altcoin",
+          "url": "https://youtu.be/DVCZFgVHIHs",
+          "image": ""
+        },
+        {
+          "name": "Manfaat",
+          "url": "https://youtu.be/dn66vzkMoeQ",
+          "image": ""
+        },
+        {
+          "name": "Perbedaan dengan Bitcoin",
+          "url": "https://youtu.be/ON7EJDMPIko",
+          "image": ""
+        },
+        {
+          "name": "Sejarah Awal",
+          "url": "https://youtu.be/9xlQbQpp-j0",
+          "image": ""
+        },
+        {
+          "name": "Perkembangan Trend",
+          "url": "https://youtu.be/OfmoBsjoQPQ",
+          "image": ""
+        },
+        {
+          "name": "Tujuan Altcoin",
+          "url": "https://youtu.be/CPQYqwM7KaE",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Pengenalan Alt Coin.avif",
+      "banner_image": "image/Tws/Pengenalan Alt Coin.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 7,
+      "title": "Modul Member Meetup Q&A",
+      "category": "Live Replay",
+      "level": 0,
+      "description": "Rekaman sesi tanya jawab saat member meetup.",
+      "materials": [
+        {
+          "name": "Meet Up Member Morning Run",
+          "url": "https://youtu.be/Qp612E2y8GA",
+          "image": ""
+        },
+        {
+          "name": "Meet Up Member Sheraton",
+          "url": "https://youtu.be/y3_M-yXQrq8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Modul Member Meetup Q&A.avif",
+      "banner_image": "image/Tws/Modul Member Meetup Q&A.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 8,
+      "title": "Resiko Berinvestasi  Crypto",
+      "category": "Mindset",
+      "level": 2,
+      "description": "Membahas berbagai resiko berinvestasi di aset kripto.",
+      "materials": [
+        {
+          "name": "Human Error",
+          "url": "https://youtu.be/eV3UumsL1zw",
+          "image": ""
+        },
+        {
+          "name": "Kehilangan Akses",
+          "url": "https://youtu.be/rLdLVfrsPTw",
+          "image": ""
+        },
+        {
+          "name": "Potensi Scam",
+          "url": "https://youtu.be/3Hsx6ZKxByg",
+          "image": ""
+        },
+        {
+          "name": "Regulasi",
+          "url": "https://youtu.be/mIu8ZRiGJVM",
+          "image": ""
+        },
+        {
+          "name": "Volatilitas Harga",
+          "url": "https://youtu.be/ToouL7svL1o",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Resiko Berinvestasi  Crypto.avif",
+      "banner_image": "image/Tws/Resiko Berinvestasi  Crypto.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 9,
+      "title": "Crypto Stochastic Divergence",
+      "category": "Trading",
+      "level": 2,
+      "description": "Belajar membaca divergence menggunakan indikator stochastic.",
+      "materials": [
+        {
+          "name": "Crypto Stochastic Divergence",
+          "url": "https://youtu.be/9oggvQrcAoE",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Stochastic Divergence.webp",
+      "banner_image": "image/Tws/Crypto Stochastic Divergence.webp",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 10,
+      "title": "Personal Finance Blueprint",
+      "category": "Mindset",
+      "level": 0,
+      "description": "Blueprint pengelolaan keuangan pribadi untuk investor dan trader.",
+      "materials": [
+        {
+          "name": "Sesi 1 Mindset Dasar Dasar Keuangan Pribadi",
+          "url": "https://youtu.be/BbEFeu31qcI",
+          "image": ""
+        },
+        {
+          "name": "Sesi 2 Budgeting and Cash Flow Management",
+          "url": "https://youtu.be/L3AkqghSYIo",
+          "image": ""
+        },
+        {
+          "name": "Sesi 3 Menabung Investasi dan Dana Darurat",
+          "url": "https://youtu.be/h2uT4i0phx8",
+          "image": ""
+        },
+        {
+          "name": "Sesi 4 Mengelola Utang dan Gaya Hidup",
+          "url": "https://youtu.be/9uNU1ylUj94",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Personal Finance Blueprint.avif",
+      "banner_image": "image/Tws/Personal Finance Blueprint.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 11,
+      "title": "Trading Preparation",
+      "category": "Trading",
+      "level": 2,
+      "description": "Checklist dan persiapan sebelum eksekusi trading.",
+      "materials": [
+        {
+          "name": "Point of Interest",
+          "url": "https://youtu.be/nXqaKDfQmc4",
+          "image": ""
+        },
+        {
+          "name": "Relative Strength How to Know Which Coin Is Stronger",
+          "url": "https://youtu.be/jHvS4LbIzEY",
+          "image": ""
+        },
+        {
+          "name": "What to Buy What To Avoid",
+          "url": "https://youtu.be/M2nog7B8keo",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Trading Preparation.avif",
+      "banner_image": "image/Tws/Trading Preparation.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 12,
+      "title": "Cara Pakai Tradingview Dari 0",
+      "category": "Tutorials",
+      "level": 1,
+      "description": "Panduan lengkap menggunakan TradingView dari nol.",
+      "materials": [
+        {
+          "name": "Charting Software",
+          "url": "https://youtu.be/JrhkaNnjjeU",
+          "image": ""
+        },
+        {
+          "name": "Charting Software",
+          "url": "https://youtu.be/vkKZAODlQ5s",
+          "image": ""
+        },
+        {
+          "name": "Charting Software",
+          "url": "https://youtu.be/svc0BnRcXiw",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Cara Pakai Tradingview Dari 0.avif",
+      "banner_image": "image/Tws/Cara Pakai Tradingview Dari 0.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 13,
+      "title": "Decoding The Crypto Cycle",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Memahami siklus pasar kripto dan bagaimana memanfaatkannya.",
+      "materials": [
+        {
+          "name": "Decoding The Crypto Cycle",
+          "url": "https://youtu.be/5N-ScNcVX60",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Decoding The Crypto Cycle.avif",
+      "banner_image": "image/Tws/Decoding The Crypto Cycle.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 14,
+      "title": "Safety Series",
+      "category": "Safety",
+      "level": 1,
+      "description": "Seri materi tentang keamanan akun dan aset kripto.",
+      "materials": [
+        {
+          "name": "Fake Airdrop",
+          "url": "https://youtu.be/vuxXg1EopE0",
+          "image": ""
+        },
+        {
+          "name": "Google Security",
+          "url": "https://youtu.be/EIxixeXDkac",
+          "image": ""
+        },
+        {
+          "name": "Have I been pwned",
+          "url": "https://youtu.be/9_2v9kY6IO4",
+          "image": ""
+        },
+        {
+          "name": "Phishing Scam",
+          "url": "https://youtu.be/DSr6QHV7TAQ",
+          "image": ""
+        },
+        {
+          "name": "Private Key Seed Phrase mastery",
+          "url": "https://youtu.be/jSALh-AizCU",
+          "image": ""
+        },
+        {
+          "name": "Smart Contract Risk",
+          "url": "https://youtu.be/tlQ4kxto_Bc",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Safety Series.avif",
+      "banner_image": "image/Tws/Safety Series.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 15,
+      "title": "Apakah Harus Diversifikasi?",
+      "category": "Investasi",
+      "level": 1,
+      "description": "Membahas penting atau tidaknya diversifikasi portofolio.",
+      "materials": [
+        {
+          "name": "Diversification",
+          "url": "https://youtu.be/LGY79sFg-Fw",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Apakah Harus Diversifikasi.avif",
+      "banner_image": "image/Tws/Apakah Harus Diversifikasi.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 16,
+      "title": "Crypto Index Guide",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Panduan memahami dan menggunakan crypto index.",
+      "materials": [
+        {
+          "name": "Cara Compare Altcoins Dengan Bitcoin",
+          "url": "https://youtu.be/d36eSf8t-lk",
+          "image": ""
+        },
+        {
+          "name": "Tipe Tipe Crypto Index Yang Kamu Wajib Tau",
+          "url": "https://youtu.be/sIeCa8H-7xs",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Index Guide.avif",
+      "banner_image": "image/Tws/Crypto Index Guide.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 17,
+      "title": "Apakah Bisa Bebas Finansial Lewat Crypto?",
+      "category": "Investasi",
+      "level": 1,
+      "description": "Membedah peluang kebebasan finansial melalui investasi dan trading crypto.",
+      "materials": [
+        {
+          "name": "Live Class Apakah Bisa Bebas Finansial Lewat Crypto",
+          "url": "https://youtu.be/tU923rsIW7Q",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Apakah Bisa Bebas Finansial Lewat Crypto.avif",
+      "banner_image": "image/Tws/Apakah Bisa Bebas Finansial Lewat Crypto.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 18,
+      "title": "Crypto On-Chain Transfer Guide",
+      "category": "Tutorials",
+      "level": 1,
+      "description": "Panduan langkah demi langkah melakukan transfer on-chain dengan aman.",
+      "materials": [
+        {
+          "name": "Onchain Transfer",
+          "url": "https://youtu.be/oYpoYuDqS1k",
+          "image": ""
+        },
+        {
+          "name": "Onchain Transfer",
+          "url": "https://youtu.be/zMyyOSPi-8s",
+          "image": ""
+        },
+        {
+          "name": "Onchain Transfer",
+          "url": "https://youtu.be/AZrliw8UzBU",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto On-Chain Transfer Guide.avif",
+      "banner_image": "image/Tws/Crypto On-Chain Transfer Guide.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 19,
+      "title": "Tipe-Tipe Market Order",
+      "category": "Trading",
+      "level": 1,
+      "description": "Mengenal perbedaan market order, limit order, stop order, dan lain-lain.",
+      "materials": [
+        {
+          "name": "Order Type",
+          "url": "https://youtu.be/QFdZgQz92mI",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Tipe-Tipe Market Order.avif",
+      "banner_image": "image/Tws/Tipe-Tipe Market Order.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 20,
+      "title": "Cara Pakai Decentralized Exchange",
+      "category": "Tutorials",
+      "level": 2,
+      "description": "Belajar menggunakan DEX untuk trading token on-chain.",
+      "materials": [
+        {
+          "name": "Beli Spot di DEX",
+          "url": "https://youtu.be/rDh2pHL49Kk",
+          "image": ""
+        },
+        {
+          "name": "Bridging Antara Blockchain",
+          "url": "#",
+          "image": ""
+        },
+        {
+          "name": "Metamask Guide",
+          "url": "https://youtu.be/4Vx0XJb8DXk",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Cara Pakai Decentralized Exchange.avif",
+      "banner_image": "image/Tws/Cara Pakai Decentralized Exchange.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 21,
+      "title": "Web3 Jobs Series: Experienced Interview",
+      "category": "Web3 Jobs",
+      "level": 1,
+      "description": "Seri wawancara dengan profesional berpengalaman di industri Web3.",
+      "materials": [
+        {
+          "name": "Aditya OKX Sharing 4 Tahun Pengalaman Kerja Web3 Jobs",
+          "url": "https://youtu.be/9BH2HxFjwwI",
+          "image": ""
+        },
+        {
+          "name": "Ferry Binance Pengalaman Kerja Web3 Ex Binance",
+          "url": "https://youtu.be/EBOB_eO7N6E",
+          "image": ""
+        },
+        {
+          "name": "Jaymond ByBit Pengalaman Kerja Di ByBit",
+          "url": "https://youtu.be/FvI4cHC6U6w",
+          "image": ""
+        },
+        {
+          "name": "Jodski Cara Dapet Income Tambahan 400 Per Bulan Dari Web3 Jobs",
+          "url": "https://youtu.be/BofEpklHK2w",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Web3 Jobs Series Experienced Interview.avif",
+      "banner_image": "image/Tws/Web3 Jobs Series Experienced Interview.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 24,
+      "title": "Trend Following Advanced: Timing The Crypto Cycle",
+      "category": "Trading",
+      "level": 3,
+      "description": "Menggunakan pendekatan trend following untuk timing siklus crypto.",
+      "materials": [
+        {
+          "name": "Cara Melakukan Trend Following Long Term",
+          "url": "https://youtu.be/00UFzeyvl6g",
+          "image": ""
+        },
+        {
+          "name": "Cara Melakukan Trend Following Medium Term",
+          "url": "https://youtu.be/_-lcb4w0SoQ",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Trend Following Advanced Timing The Crypto Cycle.avif",
+      "banner_image": "image/Tws/Trend Following Advanced Timing The Crypto Cycle.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 35,
+      "title": "Crypto Fibonacci Guide",
+      "category": "Trading",
+      "level": 1,
+      "description": "Panduan menggunakan Fibonacci retracement dan extension di trading crypto.",
+      "materials": [
+        {
+          "name": "Crypto Fibonacci Guide",
+          "url": "https://youtu.be/iLL042awH0o",
+          "image": ""
+        },
+        {
+          "name": "Crypto Fibonacci Guide",
+          "url": "https://youtu.be/u3Nm8vwXZVE",
+          "image": ""
+        },
+        {
+          "name": "advanced Fibonacci Analysis",
+          "url": "https://youtu.be/omZW3vtYrzI",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Fibonacci Guide.avif",
+      "banner_image": "image/Tws/Crypto Fibonacci Guide.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 36,
+      "title": "Time Based Key Levels",
+      "category": "Trading",
+      "level": 4,
+      "description": "Mengidentifikasi key level berdasarkan waktu dan pola harga.",
+      "materials": [
+        {
+          "name": "Monday Range",
+          "url": "https://youtu.be/nhWUJAy4PAk",
+          "image": ""
+        },
+        {
+          "name": "Time Based Key Levels",
+          "url": "https://youtu.be/Do54WkBDPHc",
+          "image": ""
+        },
+        {
+          "name": "Trading Session",
+          "url": "https://youtu.be/YP8d23N6GW8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Time Based Key Levels.avif",
+      "banner_image": "image/Tws/Time Based Key Levels.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 37,
+      "title": "Execution",
+      "category": "Trading",
+      "level": 4,
+      "description": "Teknik eksekusi trading yang efektif dan minim slippage.",
+      "materials": [
+        {
+          "name": "Anchored VWAP",
+          "url": "https://youtu.be/p5ftC_h8mWQ",
+          "image": ""
+        },
+        {
+          "name": "Composite TPO",
+          "url": "https://youtu.be/8ctGUJH07zg",
+          "image": ""
+        },
+        {
+          "name": "Composite Volume Profile",
+          "url": "https://youtu.be/Hesxeh86r8A",
+          "image": ""
+        },
+        {
+          "name": "How to Trade SFP",
+          "url": "https://youtu.be/GeWj5l4vlRA",
+          "image": ""
+        },
+        {
+          "name": "How to Trade Trends",
+          "url": "https://youtu.be/uGgP1G7_gk4",
+          "image": ""
+        },
+        {
+          "name": "How to Use CVD Divergence for Entry Trigger",
+          "url": "https://youtu.be/MfP3INTUeTQ",
+          "image": ""
+        },
+        {
+          "name": "How to Use RVOL for Entry Trigger",
+          "url": "https://youtu.be/BOhuWdMXJxs",
+          "image": ""
+        },
+        {
+          "name": "VWAP Rotation",
+          "url": "https://youtu.be/qW9FIH23-68",
+          "image": ""
+        },
+        {
+          "name": "Weekly TPO",
+          "url": "https://youtu.be/UYoEnz7lAdE",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Execution.avif",
+      "banner_image": "image/Tws/Execution.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 22,
+      "title": "Macroeconomics Series",
+      "category": "Investasi",
+      "level": 4,
+      "description": "Seri pembahasan makroekonomi dan dampaknya ke pasar crypto.",
+      "materials": [
+        {
+          "name": "Bond Market Volatility",
+          "url": "https://youtu.be/XxyZ265_H-A",
+          "image": ""
+        },
+        {
+          "name": "Business Cycle",
+          "url": "https://youtu.be/PsrQyygaupE",
+          "image": ""
+        },
+        {
+          "name": "Central Banks Vs Private Banks",
+          "url": "https://youtu.be/tWJW1AFy0zY",
+          "image": ""
+        },
+        {
+          "name": "Fed Liquidity",
+          "url": "https://youtu.be/G-bWYbouFbo",
+          "image": ""
+        },
+        {
+          "name": "Quantitative Easing Vs Quantitative Tightening tradewithsuli",
+          "url": "https://youtu.be/BVwiTsLKNl8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Macroeconomics Series.avif",
+      "banner_image": "image/Tws/Macroeconomics Series.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 23,
+      "title": "Trend Following Advanced: Timing Altcoin Season",
+      "category": "Trading",
+      "level": 4,
+      "description": "Strategi trend following lanjutan untuk memanfaatkan altcoin season.",
+      "materials": [
+        {
+          "name": "Outperformance",
+          "url": "https://youtu.be/BuIXkczsvoo",
+          "image": ""
+        },
+        {
+          "name": "Cara Pilih Major Coins",
+          "url": "https://youtu.be/qzt13Wgjqrc",
+          "image": ""
+        },
+        {
+          "name": "Timing Altseason",
+          "url": "https://youtu.be/5nN921kDNL4",
+          "image": ""
+        },
+        {
+          "name": "Altcoins Apa Yang Harus Kita Beli",
+          "url": "https://youtu.be/n_bkxicS9Xg",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Trend Following Advanced Timing Altcoin Season.avif",
+      "banner_image": "image/Tws/Trend Following Advanced Timing Altcoin Season.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 25,
+      "title": "Ethereum Supercycle",
+      "category": "Investasi",
+      "level": 2,
+      "description": "Membedah potensi supercycle Ethereum dan implikasinya.",
+      "materials": [
+        {
+          "name": "Ethereum Supercycle",
+          "url": "https://youtu.be/Q8eVcR5IPKs",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Ethereum Supercycle.avif",
+      "banner_image": "image/Tws/Ethereum Supercycle.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 26,
+      "title": "Crypto Orderblock Analysis",
+      "category": "Trading",
+      "level": 3,
+      "description": "Analisis orderblock untuk mencari area institutional order di chart crypto.",
+      "materials": [
+        {
+          "name": "Crypto Orderblock Analysis",
+          "url": "https://youtu.be/xiY_jLEoOF8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Orderblock Analysis.avif",
+      "banner_image": "image/Tws/Crypto Orderblock Analysis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 27,
+      "title": "Crypto Elliot Wave Secrets",
+      "category": "Trading",
+      "level": 3,
+      "description": "Menerapkan teori Elliot Wave untuk membaca struktur harga crypto.",
+      "materials": [
+        {
+          "name": "Crypto Elliot Wave Secrets",
+          "url": "https://youtu.be/BGH4-8_TG2E",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Elliot Wave Secrets.avif",
+      "banner_image": "image/Tws/Crypto Elliot Wave Secrets.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 28,
+      "title": "Cara Set Kriteria Trading",
+      "category": "Trading",
+      "level": 2,
+      "description": "Menyusun rule dan kriteria trading yang jelas dan terukur.",
+      "materials": [
+        {
+          "name": "Cara Set SL BEP dan TP",
+          "url": "https://youtu.be/Ckc2DzrgMpY",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Cara Set Kriteria Trading.avif",
+      "banner_image": "image/Tws/Cara Set Kriteria Trading.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 34,
+      "title": "Cara Cari Coin yang Bisa Naik 10,000%",
+      "category": "Trading",
+      "level": 2,
+      "description": "Framework screening coin yang berpotensi naik ribuan persen.",
+      "materials": [
+        {
+          "name": "Cara Cari Coin yang Bisa Naik 10.000%",
+          "url": "https://youtu.be/SQ4PFhEtcKs",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/koin.avif",
+      "banner_image": "image/tws/Cara Cari Coin yang Bisa Naik 10,000%.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 29,
+      "title": "Core Technical Analysis Logic",
+      "category": "Trading",
+      "level": 1,
+      "description": "Fondasi logika analisis teknikal yang digunakan di pasar crypto.",
+      "materials": [
+        {
+          "name": "Apa Itu DOW Theory Di Technical Analysis",
+          "url": "https://youtu.be/o1U9xwEAzU8",
+          "image": ""
+        },
+        {
+          "name": "Market Volume Analysis",
+          "url": "https://youtu.be/p_KwuDrBu10",
+          "image": ""
+        },
+        {
+          "name": "Sejarah Technical Analysis",
+          "url": "https://youtu.be/735jZII8uVs",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Core Technical Analysis Logic.avif",
+      "banner_image": "image/Tws/Core Technical Analysis Logic.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 30,
+      "title": "Zero To Hero: Web3 Jobs",
+      "category": "Web3 Jobs",
+      "level": 1,
+      "description": "Roadmap dari nol sampai siap kerja di industri Web3.",
+      "materials": [
+        {
+          "name": "Zero To Hero Web3 Jobs",
+          "url": "https://youtu.be/Kaq7Dy-OWTc",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Zero To Hero Web3 jobs.avif",
+      "banner_image": "image/Tws/Zero To Hero Web3 jobs.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 31,
+      "title": "Introduction to Web3 Jobs",
+      "category": "Web3 Jobs",
+      "level": 0,
+      "description": "Pengenalan peluang karir di dunia Web3 dan crypto.",
+      "materials": [
+        {
+          "name": "Apakah Kamu Cocok Untuk Web 3 Jobs",
+          "url": "https://youtu.be/NDduyNhic-k",
+          "image": ""
+        },
+        {
+          "name": "Introduction to Web 3 Jobs",
+          "url": "https://youtu.be/r-94yZtE2kk",
+          "image": ""
+        },
+        {
+          "name": "Kenapa Web 3 Jobs",
+          "url": "https://youtu.be/FuvDQp_Hl7A",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Introduction to Web3 Jobs.avif",
+      "banner_image": "image/Tws/Introduction to Web3 Jobs.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 32,
+      "title": "How to Read Orderflow",
+      "category": "Trading",
+      "level": 4,
+      "description": "Belajar membaca orderflow untuk memahami pergerakan pelaku besar.",
+      "materials": [
+        {
+          "name": "Depth of Market",
+          "url": "https://youtu.be/rxGqs6WaTkI",
+          "image": ""
+        },
+        {
+          "name": "Footprint Chart",
+          "url": "https://youtu.be/bbUxcH0tIfs",
+          "image": ""
+        },
+        {
+          "name": "How to Spot Absorption Using Footprint Charts",
+          "url": "https://youtu.be/OwQbj6wf_eA",
+          "image": ""
+        },
+        {
+          "name": "How to Use Relative Volume",
+          "url": "https://youtu.be/Y0DwjXHCGNM",
+          "image": ""
+        },
+        {
+          "name": "Order Block Explained",
+          "url": "https://youtu.be/Sl3coMKfqpw",
+          "image": ""
+        },
+        {
+          "name": "Orderbook Depth",
+          "url": "https://youtu.be/43n5UbYdPOQ",
+          "image": ""
+        },
+        {
+          "name": "Positions Closing vs Postions Entering",
+          "url": "https://youtu.be/nJ52_sMcX28",
+          "image": ""
+        },
+        {
+          "name": "What is CVD",
+          "url": "https://youtu.be/Zxmep8j8tEc",
+          "image": ""
+        },
+        {
+          "name": "What is Funding Rates",
+          "url": "https://youtu.be/4CF3aBZ7IcQ",
+          "image": ""
+        },
+        {
+          "name": "What is Liquidations",
+          "url": "https://youtu.be/sD_s26MpyBk",
+          "image": ""
+        },
+        {
+          "name": "What is OI",
+          "url": "https://youtu.be/00Tws7IEpW8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/How to Read Orderflow.avif",
+      "banner_image": "image/Tws/How to Read Orderflow.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 38,
+      "title": "Prediksi Q4 Arah Bitcoin & Altcoins",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Analisis dan prediksi arah Bitcoin dan altcoin untuk kuartal keempat.",
+      "materials": [
+        {
+          "name": "Prediksi Q4 Arah Bitcoin Altcoins",
+          "url": "https://youtu.be/9Eig8D-zVr8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/prediksiiii.png",
+      "banner_image": "image/tws/Q4 Crypto Watchlist Guide.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 39,
+      "title": "Bitcoin Zero Sum?",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Membahas apakah Bitcoin adalah zero-sum game atau bukan.",
+      "materials": [
+        {
+          "name": "Bitcoin Zero Sum",
+          "url": "https://youtu.be/wxiqzcnIRv4",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/zerooo.png",
+      "banner_image": "image/tws/Bitcoin 2026 BullRun Thesis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 40,
+      "title": "Crypto Fundamentals Guide",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Panduan fundamental analisis untuk memahami nilai intrinsik crypto.",
+      "materials": [
+        {
+          "name": "Crypto Screening",
+          "url": "https://youtu.be/JOHh7L47jTo",
+          "image": ""
+        },
+        {
+          "name": "Fundamental Crypto Coins",
+          "url": "https://youtu.be/EEMNrbyTkHE",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Fundamentals Guide.avif",
+      "banner_image": "image/Tws/Crypto Fundamentals Guide.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 41,
+      "title": "Trend Following Basics",
+      "category": "Trading",
+      "level": 2,
+      "description": "Dasar-dasar trend following untuk trading crypto.",
+      "materials": [
+        {
+          "name": "Apa itu Trending Market",
+          "url": "https://youtu.be/4nu_Ai7flpQ",
+          "image": ""
+        },
+        {
+          "name": "Cara Determinasi Market Environment",
+          "url": "https://youtu.be/qoIz7kN5L7M",
+          "image": ""
+        },
+        {
+          "name": "Kenapa Indikator Trend Following Underperform",
+          "url": "https://youtu.be/Cm6WkFvnp3M",
+          "image": ""
+        },
+        {
+          "name": "Mean Reverting vs Trending Market",
+          "url": "#",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Trend Following Basic.avif",
+      "banner_image": "image/Tws/Trend Following Basic.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 42,
+      "title": "Outperforming Bitcoin 101",
+      "category": "Investasi",
+      "level": 1,
+      "description": "Strategi untuk mendapatkan return lebih baik dari Bitcoin.",
+      "materials": [
+        {
+          "name": "Apa itu Korelasi",
+          "url": "https://youtu.be/iMnG5lfJ0dY",
+          "image": ""
+        },
+        {
+          "name": "Bahaya Dari Altcoins",
+          "url": "https://youtu.be/_uc_GWCJ2TA",
+          "image": ""
+        },
+        {
+          "name": "Berapa Duit Harus Dipunyai Untuk Invest Crypto",
+          "url": "https://youtu.be/jdV0Cn_hPgw",
+          "image": ""
+        },
+        {
+          "name": "Dollar Cost Averaging",
+          "url": "https://youtu.be/oPe11qCETSw",
+          "image": ""
+        },
+        {
+          "name": "Kenapa Harus Outperform",
+          "url": "https://youtu.be/1pmSevJRSK0",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/outperformingg.png",
+      "banner_image": "image/tws/Pengenalan Alt Coin.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 43,
+      "title": "Rahasia Trading Menggunakan Indikator",
+      "category": "Trading",
+      "level": 2,
+      "description": "Rahasia menggunakan indikator teknikal untuk trading yang lebih akurat.",
+      "materials": [
+        {
+          "name": "Cara Menggunakan Indikator Di TradingView Praktek",
+          "url": "https://youtu.be/tqgz1ePmSSs",
+          "image": ""
+        },
+        {
+          "name": "Crypto Indicator Basic",
+          "url": "https://youtu.be/gHJfgd8klZA",
+          "image": ""
+        },
+        {
+          "name": "Rahasia Menggunakan Indikator Untuk Trading Live Trade",
+          "url": "https://youtu.be/n6ZoRFAb7kk",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Rahasia Trading Menggunakan Indikator.avif",
+      "banner_image": "image/Tws/Rahasia Trading Menggunakan Indikator.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 44,
+      "title": "DEX Whale Tracking Guide",
+      "category": "Trading",
+      "level": 2,
+      "description": "Panduan tracking aktivitas whale di decentralized exchange.",
+      "materials": [
+        {
+          "name": "Dex Tutorial dari 0 Sampai Bisa",
+          "url": "https://youtu.be/DsekfE1QWiY",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/DEX Whale Tracking Guide.avif",
+      "banner_image": "image/Tws/DEX Whale Tracking Guide.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 45,
+      "title": "Crypto Candlestick Analysis",
+      "category": "Trading",
+      "level": 1,
+      "description": "Analisis candlestick pattern untuk membaca pergerakan harga crypto.",
+      "materials": [
+        {
+          "name": "Crypto Candlestick Analysis",
+          "url": "https://youtu.be/gBtZp90Y1Lc",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Candlestick Analysis.avif",
+      "banner_image": "image/Tws/Crypto Candlestick Analysis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 46,
+      "title": "Trade Setup",
+      "category": "Trading",
+      "level": 4,
+      "description": "Menyusun trade setup yang optimal sebelum eksekusi.",
+      "materials": [
+        {
+          "name": "How to Find Your Edge",
+          "url": "https://youtu.be/-9CsFTMTAXo",
+          "image": ""
+        },
+        {
+          "name": "How to Trade in Ranging Market",
+          "url": "https://youtu.be/ivpPjFKsQj8",
+          "image": ""
+        },
+        {
+          "name": "How to Trade in Trending Market",
+          "url": "https://youtu.be/BfcrosEvQSk",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/tradeeeeee.png",
+      "banner_image": "image/tws/Trading Preparation.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 47,
+      "title": "Crypto Judi atau Investasi?",
+      "category": "Mindset",
+      "level": 0,
+      "description": "Membedakan antara trading/investasi crypto dengan perjudian.",
+      "materials": [
+        {
+          "name": "Crypto Judi atau Investasi",
+          "url": "https://youtu.be/1GuL7e8bxt8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/judiiii.png",
+      "banner_image": "image/tws/Resiko Berinvestasi  Crypto.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 48,
+      "title": "Leverage 101",
+      "category": "Trading",
+      "level": 0,
+      "description": "Pengenalan leverage dan cara menggunakannya dengan bijak.",
+      "materials": [
+        {
+          "name": "Apa Itu Leverage",
+          "url": "https://youtu.be/UDpFCjWsT4w",
+          "image": ""
+        },
+        {
+          "name": "Apa Itu Margin Type",
+          "url": "https://youtu.be/IEV7m3iw4Vk",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Leverage 101.avif",
+      "banner_image": "image/Tws/Leverage 101.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 49,
+      "title": "Platform Setup",
+      "category": "Tutorials",
+      "level": 4,
+      "description": "Setup platform trading dan tools yang diperlukan.",
+      "materials": [
+        {
+          "name": "Platform Setup Advance Coinank",
+          "url": "https://youtu.be/21JRvtFxEPs",
+          "image": ""
+        },
+        {
+          "name": "Platform Setup Advance Tradingview",
+          "url": "https://youtu.be/J0FHezAWttk",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Platform Setup.avif",
+      "banner_image": "image/Tws/Platform Setup.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 50,
+      "title": "Crypto Trend Guide",
+      "category": "Trading",
+      "level": 1,
+      "description": "Panduan mengidentifikasi dan mengikuti trend di pasar crypto.",
+      "materials": [
+        {
+          "name": "Crypto Trend Guide",
+          "url": "https://youtu.be/Hi_Jqq8m98s",
+          "image": ""
+        },
+        {
+          "name": "Crypto Trend Guide",
+          "url": "https://youtu.be/EvFjRFcBpb8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Trend Guide.avif",
+      "banner_image": "image/Tws/Crypto Trend Guide.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 51,
+      "title": "Crypto Mind Management",
+      "category": "Mindset",
+      "level": 0,
+      "description": "Manajemen mindset dan psikologi dalam trading crypto.",
+      "materials": [
+        {
+          "name": "FAQ and Mind Management",
+          "url": "https://youtu.be/_DqAR6_d2ks",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Mind Management.avif",
+      "banner_image": "image/Tws/Crypto Mind Management.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 52,
+      "title": "Suli Crypto Trading Bootcamp",
+      "category": "Trading",
+      "level": 1,
+      "description": "Bootcamp intensif untuk belajar trading crypto dari dasar.",
+      "materials": [
+        {
+          "name": "Trading Psychology Liveclass",
+          "url": "https://youtu.be/teOwfzmAQ2U",
+          "image": ""
+        },
+        {
+          "name": "Chart Review",
+          "url": "https://youtu.be/Io1s8c3mWDI",
+          "image": ""
+        },
+        {
+          "name": "Chart Review 2",
+          "url": "https://youtu.be/lUevvucqKok",
+          "image": ""
+        },
+        {
+          "name": "Crypto Chart Pattern Liveclass",
+          "url": "https://youtu.be/QP41bZ7ZXew",
+          "image": ""
+        },
+        {
+          "name": "Crypto Trading Momentum",
+          "url": "https://youtu.be/b6rN4JUj-rI",
+          "image": ""
+        },
+        {
+          "name": "Crypto Trend Liveclass",
+          "url": "https://youtu.be/tkjgtRvYZEE",
+          "image": ""
+        },
+        {
+          "name": "Foundation of Crypto Forex",
+          "url": "https://youtu.be/3SXMT498cnQ",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Suli Crypto Trading Bootcamp.avif",
+      "banner_image": "image/Tws/Suli Crypto Trading Bootcamp.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 53,
+      "title": "Suli 2024 Liveclass Archive",
+      "category": "Live Replay",
+      "level": 2,
+      "description": "Arsip liveclass Suli tahun 2024.",
+      "materials": [
+        {
+          "name": "advanced Fibonacci Analysis",
+          "url": "https://youtu.be/omZW3vtYrzI",
+          "image": ""
+        },
+        {
+          "name": "Market Volume Analysis",
+          "url": "https://youtu.be/p_KwuDrBu10",
+          "image": ""
+        },
+        {
+          "name": "Market Gap Analysis",
+          "url": "https://youtu.be/a_rEsfNYMIo",
+          "image": ""
+        },
+        {
+          "name": "Trendline Breakout Analysis tradewithsulli com",
+          "url": "https://youtu.be/fay9CLC0o84",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Suli 2024 Liveclass Archive.avif",
+      "banner_image": "image/Tws/Suli 2024 Liveclass Archive.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 54,
+      "title": "Bias di Dunia Investasi",
+      "category": "Mindset",
+      "level": 1,
+      "description": "Mengenal berbagai bias psikologis dalam investasi dan trading.",
+      "materials": [
+        {
+          "name": "Gamblers Fallacy",
+          "url": "https://youtu.be/rgKG_QAD7yU",
+          "image": ""
+        },
+        {
+          "name": "Conformation Bias",
+          "url": "https://youtu.be/N7tGY8qLUjk",
+          "image": ""
+        },
+        {
+          "name": "Availibilty Heuristhic",
+          "url": "https://youtu.be/ojLnzPpIfDY",
+          "image": ""
+        },
+        {
+          "name": "Insight Bias",
+          "url": "https://youtu.be/8NfCGsjDBug",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Bias di Dunia Investasi.avif",
+      "banner_image": "image/Tws/Bias di Dunia Investasi.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 55,
+      "title": "Memecoin Screening: Basics",
+      "category": "Trading",
+      "level": 1,
+      "description": "Dasar-dasar screening memecoin yang berpotensi naik.",
+      "materials": [
+        {
+          "name": "Apa itu Contract Address",
+          "url": "https://youtu.be/XAZiF1MZqSg",
+          "image": ""
+        },
+        {
+          "name": "Cara Pakai Dexscreener",
+          "url": "https://youtu.be/VG3CptpRYf4",
+          "image": ""
+        },
+        {
+          "name": "Cara Pakai Phantom Wallet",
+          "url": "https://youtu.be/Urkb1tXKf8E",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Memecoin Screening Basics.avif",
+      "banner_image": "image/Tws/Memecoin Screening Basics.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 33,
+      "title": "Q4 Crypto Watchlist Guide",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Panduan watchlist crypto untuk kuartal tertentu.",
+      "materials": [
+        {
+          "name": "Q4 Crypto Watchlist Guide",
+          "url": "https://youtu.be/tf_-Y63ME-E",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Q4 Crypto Watchlist Guide.avif",
+      "banner_image": "image/Tws/Q4 Crypto Watchlist Guide.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 56,
+      "title": "Basic Market",
+      "category": "Trading",
+      "level": 1,
+      "description": "Dasar-dasar memahami struktur pasar dan pergerakan harga.",
+      "materials": [
+        {
+          "name": "Context Over Technical Analysis",
+          "url": "https://youtu.be/5ebg8__GwCE",
+          "image": ""
+        },
+        {
+          "name": "Passive vs Active Participants",
+          "url": "https://youtu.be/zt4OjClbo88",
+          "image": ""
+        },
+        {
+          "name": "Scalp vs Swing Which Trading Style Fits You Best",
+          "url": "https://youtu.be/s9QAdYdRv7E",
+          "image": ""
+        },
+        {
+          "name": "Trading Environment",
+          "url": "https://youtu.be/U9V6QC-Qv4k",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Basic Market.avif",
+      "banner_image": "image/Tws/Basic Market.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 57,
+      "title": "Cara Recovery Portofolio Drawdown",
+      "category": "Mindset",
+      "level": 0,
+      "description": "Strategi recovery portofolio setelah mengalami drawdown besar.",
+      "materials": [
+        {
+          "name": "Cara Recovery Portofolio Drawdown",
+          "url": "https://youtu.be/lmeH7tYqOak",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/portofoliooo.png",
+      "banner_image": "image/tws/Resiko Berinvestasi  Crypto.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 58,
+      "title": "Bahas Geopolotik: Iran vs Israel",
+      "category": "Investasi",
+      "level": 1,
+      "description": "Analisis dampak geopolitik Iran vs Israel terhadap pasar crypto.",
+      "materials": [
+        {
+          "name": "Bahas Geopolotik Iran vs israel  20 Juni 2025",
+          "url": "https://youtu.be/vhPgqQkt7c4",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/geopolitikkkk.png",
+      "banner_image": "image/tws/Macroeconomics Series.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 59,
+      "title": "Probability Game",
+      "category": "Trading",
+      "level": 1,
+      "description": "Memahami trading sebagai permainan probabilitas dan edge.",
+      "materials": [
+        {
+          "name": "Probability Game",
+          "url": "https://youtu.be/2l-XkqtOkj4",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Probability Game.avif",
+      "banner_image": "image/Tws/Probability Game.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 60,
+      "title": "Crypto Pattern Analysis",
+      "category": "Trading",
+      "level": 1,
+      "description": "Analisis pola chart pattern untuk trading crypto.",
+      "materials": [
+        {
+          "name": "Crypto Pattern Analysis",
+          "url": "https://youtu.be/EwDmylUJkAI",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Orderblock Analysis.avif",
+      "banner_image": "image/Tws/Crypto Orderblock Analysis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 61,
+      "title": "Money Management on Perp Trading",
+      "category": "Trading",
+      "level": 1,
+      "description": "Manajemen uang khusus untuk perpetual trading.",
+      "materials": [
+        {
+          "name": "Money Mangement Perp Trading",
+          "url": "https://youtu.be/Ov1w5nfIcyc",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/moneyyyy.png",
+      "banner_image": "image/tws/Personal Finance Blueprint.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 62,
+      "title": "Bitcoin Bull Run or Bear Market",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Analisis apakah Bitcoin sedang dalam bull run atau bear market.",
+      "materials": [
+        {
+          "name": "Bitcoin Bull Run or Bear Market",
+          "url": "https://youtu.be/PBl9BYLsvlY",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/bullrunnnn.png",
+      "banner_image": "image/tws/Bitcoin 2026 BullRun Thesis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 63,
+      "title": "Bear Market Strategy",
+      "category": "Trading",
+      "level": 1,
+      "description": "Strategi trading dan investasi di bear market.",
+      "materials": [
+        {
+          "name": "Bear Market Strategy",
+          "url": "https://youtu.be/RIWFcCtMLcQ",
+          "image": ""
+        },
+        {
+          "name": "Exit Strategy",
+          "url": "https://youtu.be/clZQKHkKPtQ",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Bear Market Strategy.avif",
+      "banner_image": "image/Tws/Bear Market Strategy.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 64,
+      "title": "Pengenalan Bitcoin",
+      "category": "Investasi",
+      "level": 1,
+      "description": "Pengenalan dasar Bitcoin dan teknologi blockchain.",
+      "materials": [
+        {
+          "name": "Bitcoin vs Aset Lain",
+          "url": "https://youtu.be/AaGlGG2wICk",
+          "image": ""
+        },
+        {
+          "name": "Manfaat Fungsi",
+          "url": "https://youtu.be/T5Gbw-7J6GE",
+          "image": ""
+        },
+        {
+          "name": "Cara Kerja Bitcoin",
+          "url": "https://youtu.be/gm21E87o6QQ",
+          "image": ""
+        },
+        {
+          "name": "Risiko Kelemahan",
+          "url": "https://youtu.be/eGuDk67JYZ0",
+          "image": ""
+        },
+        {
+          "name": "Pentingnya Desentralisasi",
+          "url": "https://youtu.be/BZm2ow9mrWo",
+          "image": ""
+        },
+        {
+          "name": "Ekosistem Bitcoin",
+          "url": "https://youtu.be/f_OwBZx5WQs",
+          "image": ""
+        },
+        {
+          "name": "Konsep Dasar",
+          "url": "https://youtu.be/_ClZgHlVCEA",
+          "image": ""
+        },
+        {
+          "name": "Sejarah Bitcoin",
+          "url": "https://youtu.be/_U6fH2sZ2yg",
+          "image": ""
+        },
+        {
+          "name": "Perkembangan Trend",
+          "url": "https://youtu.be/OfmoBsjoQPQ",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Pengenalan Bitcoin.avif",
+      "banner_image": "image/Tws/Pengenalan Bitcoin.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 65,
+      "title": "Oktober: Bullish atau Bearish",
+      "category": "Investasi",
+      "level": 0,
+      "description": "Analisis arah pasar crypto di bulan Oktober.",
+      "materials": [
+        {
+          "name": "Obtober Bullish atau Bearish",
+          "url": "https://youtu.be/utbh9dNJI78",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/bullishhhh.png",
+      "banner_image": "image/tws/Bitcoin 2026 BullRun Thesis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 66,
+      "title": "Crypto Liquidity Analysis",
+      "category": "Trading",
+      "level": 1,
+      "description": "Analisis likuiditas untuk menentukan entry dan exit yang optimal.",
+      "materials": [
+        {
+          "name": "Crypto Liquidity Analysis",
+          "url": "https://youtu.be/3kGCOm0fC3g",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Liquidity Analysis.avif",
+      "banner_image": "image/Tws/Crypto Liquidity Analysis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 67,
+      "title": "Cara Memilih Exchange Crypto",
+      "category": "Tutorials",
+      "level": 0,
+      "description": "Panduan memilih exchange crypto yang aman dan terpercaya.",
+      "materials": [
+        {
+          "name": "Beli Posisi Spot di CEX",
+          "url": "https://youtu.be/GvjyiCDL1WY",
+          "image": ""
+        },
+        {
+          "name": "Cari Koin Crypto",
+          "url": "https://youtu.be/tvHVprh_UBA",
+          "image": ""
+        },
+        {
+          "name": "Pakai exchange apa",
+          "url": "https://youtu.be/-YGI4YTwJG8",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Cara Memilih Exchange Crypto.avif",
+      "banner_image": "image/Tws/Cara Memilih Exchange Crypto.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 68,
+      "title": "Crypto Trading Principles",
+      "category": "Trading",
+      "level": 1,
+      "description": "Prinsip-prinsip fundamental dalam trading crypto.",
+      "materials": [
+        {
+          "name": "Crypto Capital Preservation",
+          "url": "https://youtu.be/m9D0ZKcUDgY",
+          "image": ""
+        },
+        {
+          "name": "Hindari Terkena Drawdown Portfolio Dalam",
+          "url": "https://youtu.be/UvtrAZ5SnuM",
+          "image": ""
+        },
+        {
+          "name": "Jangan Pernah Trading Tanpa Stoploss",
+          "url": "https://youtu.be/th4j0tDU_Nw",
+          "image": ""
+        },
+        {
+          "name": "If Its Too Good To Be True  Then It Is To Good To Be True",
+          "url": "https://youtu.be/XRBDKoIfJm4",
+          "image": ""
+        },
+        {
+          "name": "Cara Main Setiap Market Beda",
+          "url": "https://youtu.be/eaGjMiB-31g",
+          "image": ""
+        },
+        {
+          "name": "Search For Market Confluence",
+          "url": "https://youtu.be/1V894ONM6qg",
+          "image": ""
+        },
+        {
+          "name": "Jangan Batesin Profit  Tapi Batesin Loss",
+          "url": "https://youtu.be/4j4E4LyJsIE",
+          "image": ""
+        },
+        {
+          "name": "Analyst Terbaik Adalah Diri Kalian Sendiri",
+          "url": "https://youtu.be/c7ZOvGXKKLg",
+          "image": ""
+        },
+        {
+          "name": "Exit Strategy 90 Dari Total Trade Kalian",
+          "url": "https://youtu.be/bNnlmGhqZ80",
+          "image": ""
+        },
+        {
+          "name": "Trade Less When Winning",
+          "url": "https://youtu.be/zrJkltzOh80",
+          "image": ""
+        },
+        {
+          "name": "Selama Ini Lu Salah Pake Trading Journal",
+          "url": "https://youtu.be/NpTl4_lhiMc",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Trading Principles.avif",
+      "banner_image": "image/Tws/Crypto Trading Principles.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 69,
+      "title": "Crypto Transaction Guide",
+      "category": "Tutorials",
+      "level": 1,
+      "description": "Panduan melakukan transaksi crypto dengan aman.",
+      "materials": [
+        {
+          "name": "Biaya Transaksi Trading Fee Gas Fee",
+          "url": "https://youtu.be/_1sHkr5qtd0",
+          "image": ""
+        },
+        {
+          "name": "Buka Akun Verifikasi KYC di CEX  koneksi wallet di DEX",
+          "url": "https://youtu.be/pi1wldaKamg",
+          "image": ""
+        },
+        {
+          "name": "Deposit dan Penarikan Aset",
+          "url": "https://youtu.be/puecEk2RQjc",
+          "image": ""
+        },
+        {
+          "name": "Keamanan Transaksi 2FA  Private Key Risiko DEX",
+          "url": "https://youtu.be/rDJRwk5a3sE",
+          "image": ""
+        },
+        {
+          "name": "Likuiditas Slippage",
+          "url": "https://youtu.be/VFr27Bm93Bw",
+          "image": ""
+        },
+        {
+          "name": "Order Book Jenis Order Limit  Market  Stop  Swap Instan",
+          "url": "https://youtu.be/FKHaangDviI",
+          "image": ""
+        },
+        {
+          "name": "Penyimpanan Aset Setelah Trading Exchange vs Wallet Pribadi",
+          "url": "https://youtu.be/rdKjOF-roBY",
+          "image": ""
+        },
+        {
+          "name": "Perbedaan CEX dan DEX",
+          "url": "https://youtu.be/qiy61OqvC1Y",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/Tws/Crypto Transaction Guide.webp",
+      "banner_image": "image/Tws/Crypto Transaction Guide.webp",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 70,
+      "title": "Auction Market Theory",
+      "category": "Trading",
+      "level": 3,
+      "description": "Teori auction market untuk memahami struktur pasar.",
+      "materials": [
+        {
+          "name": "Auction Market Theory",
+          "url": "https://youtu.be/lx3gqN5Gt8c",
+          "image": ""
+        },
+        {
+          "name": "Balance Market vs Imbalance Market",
+          "url": "https://youtu.be/UsBXVbZnVCg",
+          "image": ""
+        },
+        {
+          "name": "How to Define Range",
+          "url": "https://youtu.be/gwIZkwoYtPY",
+          "image": ""
+        },
+        {
+          "name": "How to Use Market Profile TPO Chart",
+          "url": "https://youtu.be/o2fcTDUlk_I",
+          "image": ""
+        },
+        {
+          "name": "How to Use Volume Profile",
+          "url": "https://youtu.be/B4XU5ZpffDA",
+          "image": ""
+        },
+        {
+          "name": "VWAP Explained",
+          "url": "https://youtu.be/E5fYShqMVbw",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/market teoriii.png",
+      "banner_image": "image/tws/Crypto Orderblock Analysis.avif",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    },
+    {
+      "id": 71,
+      "title": "Auction Market Theory #2",
+      "category": "Trading",
+      "level": 3,
+      "description": "Lanjutan teori auction market dengan studi kasus praktis.",
+      "materials": [
+        {
+          "name": "HVN vs LVN",
+          "url": "https://youtu.be/FAa_QNEb6fE",
+          "image": ""
+        },
+        {
+          "name": "Reclaim and Deviation",
+          "url": "https://youtu.be/svyLtWp1Dm4",
+          "image": ""
+        }
+      ],
+      "thumbnail": "image/tws/Crypto Orderblock Analysis.avif",
+      "banner_image": "image/tws/markett teorii 2.png",
+      "youtube_url": "https://www.youtube.com",
+      "pdf_url": ""
+    }
+  ]
+}
